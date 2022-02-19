@@ -18,12 +18,11 @@ gem "jekyll-theme-cayman"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-    gem 'jekyll-feed', '~> 0.12'
-    gem 'jekyll-remote-theme'
-    gem 'jekyll-sitemap'
-    gem 'jekyll-seo-tag'
-    gem 'jekyll-multiple-languages-plugin'
-  end
+  gem 'jekyll-feed', '~> 0.12'
+  gem 'jekyll-remote-theme'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-seo-tag'
+  gem 'jekyll-multiple-languages-plugin'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
