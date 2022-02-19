@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: "Company of the Golden Hops"
+description: "Living history group" 
+gems:
+    - jekyll-multiple-languages-plugin
+languages: ["en"]
