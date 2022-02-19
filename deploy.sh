@@ -1,5 +1,4 @@
 set -e
-chmod -R 777 _site
 cd _site
 echo "::debug::Initializing new repo"
 REMOTE_REPO="https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
