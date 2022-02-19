@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
-title: "Company of the Golden Hops"
-description: "Living history group" 
+exclude: [ "README.md", "LICENSE", "vendor" ]
 plugins:
     - jekyll-multiple-languages-plugin
 languages: ["en"]
