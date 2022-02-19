@@ -1,9 +1,7 @@
 set -e
 cd _site
 echo "::debug::Initializing new repo"
-INPUT_TOKEN=$1
-REMOTE_REPO="https://${GITHUB_ACTOR}:$INPUT_TOKEN@github.com/${GITHUB_REPOSITORY}.git"
-echo $REMOTE_REPO
+REMOTE_REPO="https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
 LOCAL_BRANCH="main"
 git init -b $LOCAL_BRANCH
 PUSH_OPTIONS="--force"

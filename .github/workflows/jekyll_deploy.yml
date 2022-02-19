@@ -25,6 +25,8 @@ jobs:
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && /srv/jekyll/build.sh"
     - name: Deploy the site on GH pages
       run: |
-        ./deploy.sh ${{ secrets.GITHUB_TOKEN }}
+        ./deploy.sh
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
 
