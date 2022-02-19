@@ -23,5 +23,8 @@ jobs:
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll \
         jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && /srv/jekyll/build.sh"
+    - name: Deploy the site on GH pages
+      run: |
+        ./deploy.sh
   
 
