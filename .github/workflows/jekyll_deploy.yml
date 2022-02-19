@@ -3,7 +3,7 @@ name: Jekyll build and deploy main site CI
 on:
   push:
     branches: 
-      - main
+      - source
 
 jobs:
   build:

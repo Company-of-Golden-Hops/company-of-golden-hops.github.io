@@ -2,11 +2,11 @@ set -e
 cd _site
 echo "::debug::Initializing new repo"
 REMOTE_REPO="https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-LOCAL_BRANCH="main"
+LOCAL_BRANCH="source"
 git init -b $LOCAL_BRANCH
 PUSH_OPTIONS="--force"
 COMMIT_OPTIONS=""
-remote_branch="gh-pages"
+remote_branch="main"
 
 echo "Publishing to ${GITHUB_REPOSITORY} on branch ${remote_branch}"
 
