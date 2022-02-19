@@ -3,3 +3,5 @@ exclude: [ "README.md", "LICENSE", "vendor" ]
 plugins:
     - jekyll-multiple-languages-plugin
 languages: ["en"]
+header_feature_image: assets/imgs/boardgames.jpg
+header_feature_image_responsive: true
