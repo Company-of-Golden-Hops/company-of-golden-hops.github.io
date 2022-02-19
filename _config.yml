@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: type-on-strap
 exclude: [ "README.md", "LICENSE", "vendor" ]
 plugins:
     - jekyll-multiple-languages-plugin
