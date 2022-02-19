@@ -71,23 +71,23 @@ details[open] summary:before {
   content: "[-] ";
 }
 
-// .menu:link {
-//   color: white;
-//   text-decoration: none;
-// }
+.menu:link {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
 
-// .menu:visited {
-//   color: white;
-//   text-decoration: none;
-// }
+.menu:visited {
+  color: rgb(63, 60, 60);
+  text-decoration: none;
+}
 
-// .menu:hover {
-//   color: white;
-//   text-decoration: underline;
-// }
+.menu:hover {
+  color: rgb(1, 29, 3);
+  text-decoration: underline;
+}
 
-// .menu:active {
-//   color: hotpink;
-//   text-decoration: underline;
-// }
+.menu:active {
+  color: rgb(19, 218, 52);
+  text-decoration: underline;
+}
 
