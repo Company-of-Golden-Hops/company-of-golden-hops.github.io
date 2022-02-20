@@ -1,7 +1,7 @@
 ---
 title: titles.home
 desc: desc.home
-layout: home
+layout: default
 ---
 
 ## {% t content.home.h1 %} 
