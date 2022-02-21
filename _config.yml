@@ -8,7 +8,7 @@ exclude_from_localizations: ["_plugins", "assets", "_sass"]
 
 # Header and footer text
 
-header_feature_image: assets/img/header/triangular.jpeg
+header_feature_image: assets/img/boardgames.jpg
 header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
