@@ -11,7 +11,7 @@ home:
     h2: "this is a test h2"
 portfolio:
   contentbg:
-  header_text: "Boardgames"
+    header_text: "Boardgames"
     h1: "Authentic ludic experience"
     p1: "We offer a number or boardgames for visitors to play, all teken directly from historical sources or of historical inspiration."
     p2: "Click on the names to learn more!"
@@ -26,3 +26,7 @@ portfolio:
         desc1: "This is a game played with 6 dice"
         desc2: "It's really fun"
         desc3: "TODO: Add rules"
+  contentduel:
+    header_text: "Duels"
+    h1: "Demonstration of Historical Duels"
+    p1: "Watch as our members trained in historical European martial arts demonstrate how duels could have happened!"
