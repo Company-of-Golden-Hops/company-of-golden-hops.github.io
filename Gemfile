@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8.5"
+gem "jekyll", "~> 3.9.0"
 
 gem "type-on-strap"
 
@@ -18,7 +18,7 @@ gem "type-on-strap"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'jekyll-feed', '~> 0.12'
+  gem 'jekyll-feed', '~> 0.15.1'
   gem 'jekyll-remote-theme'
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
