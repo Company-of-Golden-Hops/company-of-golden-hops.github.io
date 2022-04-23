@@ -4,6 +4,7 @@ titles:
   home: Welcome
   services: What we offer
   about: About us
+  er404: Page not found !
 home:
   header_text: "WOW SHINY"
   content:
