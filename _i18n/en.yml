@@ -10,8 +10,8 @@ home:
     h1: "THis is a test h1"
     h2: "this is a test h2"
 portfolio:
+  contentbg:
   header_text: "Boardgames"
-  content:
     h1: "Authentic ludic experience"
     p1: "We offer a number or boardgames for visitors to play, all teken directly from historical sources or of historical inspiration."
     p2: "Click on the names to learn more!"
