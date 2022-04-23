@@ -2,8 +2,8 @@
 layout: post
 title: Boardgames
 img: "assets/img/portfolio/boardgames.jpg"
-date: April, 08 2014
-tags: [Lorem]
+date: 23/04/2022
+tags: [boardgames]
 ---
 
 ![image]({{ page.img | relative_url }})
