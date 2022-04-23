@@ -9,3 +9,14 @@ home:
   content:
     h1: "THis is a test h1"
     h2: "this is a test h2"
+portfolio:
+  header_text: "Boardgames"
+  content:
+    h1: "Authentic ludic experience"
+    p1: "We offer a number or boardgames for visitors to play, all teken directly from historical sources or of historical inspiration."
+    list:
+      tt:
+        name: "All Tables"
+        desc1: "Ancestor of the backgamon, this game was described in a book commissioned by Alfonso X the Wise and completed in 1283 in Seville. \"The Book of Chess, Dice and Tables\" is today kept in the library of the monastery of San Lorenzo de El Escorial near Madrid."
+        desc2: "This game is called Todas Tablas."
+        desc3: "There is another game that is called Todas Tablas because it extends over the totality of the 4 quadrants of the board. On the 2 quadrants which face each other: put on the first one, on 6-point, 5 pawns of a colour. And, of that same color, put 2 pawns on 1-point of the other quadrant that is in front of the precedent, put along the same quadrant the other pawns as it was said previously. On the 2 other quadrants which are at the end, on 1-point, put 5 pawns of the colour of the 5 others whom are placed on the 6-point. And on the 5-point, put 3 pawns of each of the colours. And played like this: the one who has the hand bring 2 pawns of his choice to the 6-point where are 5 pawns. But if pawns are taken, they should return on the quadrant where 2 pawns are on the 1-point. And bear off pawns placed on the quadrant where 5 pawns are on the 6-pont. There bears off. This game is played with 2 dice."
