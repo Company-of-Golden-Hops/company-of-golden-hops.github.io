@@ -10,7 +10,7 @@ tags: [boardgames]
 
 ![image]({{ page.img | relative_url }})
 
-<p>{% t portfolio.contentbg.list.p2 %}</p>
+<p>{% t portfolio.contentbg.p2 %}</p>
 
 <details>
     <summary><strong>{% t portfolio.contentbg.list.tt.name %}</strong> - <em>Todas Tablas</em></summary>
