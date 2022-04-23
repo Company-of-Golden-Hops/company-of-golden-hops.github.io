@@ -7,8 +7,8 @@
 			<img alt="logo img" class="avatar" src="{{ site.avatar | relative_url }}" />
 		</a>
         {% endif %}
-        <a class="site-title" aria-label="{{ site.title }}" href="{{ '/' | relative_url }}">
-        {{ site.title }}
+        <a class="site-title" aria-label="{% t global.title %}" href="{{ '/' | relative_url }}">
+        {% t global.title %}
 		</a>
 	</div>
 
@@ -26,9 +26,9 @@
             {% unless page.title == null or page.hide or name_page contains page.title %}
             <li class="separator"> | </li>
             <li>
-                <a class="clear" aria-label="{{ page.title }}" title="{{ page.title }}" href="{{ page.url | relative_url }}">
+                <a class="clear" aria-label="{% t page.title %}" title="{% t page.title %}" href="{{ page.url | relative_url }}">
                     {% if page.icon %} <i class="fas {{ page.icon }}" aria-hidden="true"></i>
-                    {% else %} {{ page.title }} {% endif%}
+                    {% else %} {% t page.title %} {% endif%}
                 </a>
             </li>
             {% endunless %}
@@ -37,7 +37,7 @@
         
         {% if site.color_theme == 'auto' %}
         <li class="separator"> | </li>
-        <li><a id="theme-toggle" title="{{ page.title }} " aria-label="{{ page.title }}" onclick="themeToggle()"></a></li>
+        <li><a id="theme-toggle" title="{% t page.title %} " aria-label="{% t page.title %}" onclick="themeToggle()"></a></li>
         {% endif %}
     </ul>
 
