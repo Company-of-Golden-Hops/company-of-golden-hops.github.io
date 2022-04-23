@@ -1,12 +1,12 @@
 ---
 layout: post
-title: {% t portfolio.contentbg.header_text %}
+title: "{% t portfolio.contentbg.header_text %}"
 img: "assets/img/portfolio/boardgames.jpg"
 date: 23/04/2022
 tags: [boardgames]
 ---
-<h1>{% t portfolio.contentbg.list.h1 %}</h1>
-<p>{% t portfolio.contentbg.list.p1 %}</p>
+<h1>{% t portfolio.contentbg.h1 %}</h1>
+<p>{% t portfolio.contentbg.p1 %}</p>
 
 ![image]({{ page.img | relative_url }})
 
