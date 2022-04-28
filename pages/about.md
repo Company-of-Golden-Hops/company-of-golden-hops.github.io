@@ -1,14 +1,24 @@
 ---
 layout: page
 title: titles.about
+subtitle: subtitles.about
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+<h3>{% t about.short1 %}</h3>
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+</br>
+<p>
+    {% t about.long1 %} 
+    </br>
+    {% t about.long2 %} 
+    </br>
+    {% t about.long3 %}
+</p>
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+<br>
+
+<h3> {% t about.short2} <h3>
+<p>Juraj Batelja {% t about.pres %}, Pierre-Louis Palant {% t about.vice %}, Antonija Lepur {% t about.treas %}</p>

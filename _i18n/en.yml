@@ -10,6 +10,7 @@ titles:
   tags: Tags
 subtitles:
   home: "Living history group"
+  about: "AURUM ET CERVISIA"
   services: "Here you can find what the company offers to do on events"
   gallery: "Pictures taken on our adventures :)"
   search: "What are you searching for ?"
@@ -18,6 +19,17 @@ home:
   content:
     h1: "THis is a test h1"
     h2: "this is a test h2"
+about:
+  short1: "Who are we and what do we do?"
+  long1: "Company of the golden hops is a Croatian non-profit association of citizens, established for the purpose of studying,
+promoting and reenecting history from antiquity to the early modern era of Croatian and European cultural and historical heritage."
+  long2: "The association operates according to the most modern and up-to-date world principles, achievements and rules of historical reenectment."
+  long3: "The main theme we are doing is a historical Italian mercenary company from 1375 to 1420."
+  short2: "Bureau:"
+  pres: "President"
+  vice: "Vice-President"
+  trea: "Treasurer"
+  membership: "Want to be a member of our Company?"
 portfolio:
   contentbg:
     header_text: "Boardgames"
