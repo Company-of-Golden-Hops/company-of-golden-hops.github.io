@@ -7,3 +7,4 @@ tags: [calligraphy]
 ---
 
 <p>{% t portfolio.calligraphy.p1 %}</p>
+![image]({{ page.img | relative_url }})
