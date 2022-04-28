@@ -9,17 +9,20 @@ tags: [Page]
 
 <h3>{% t about.short1 %}</h3>
 
-
-<p>
-    {% t about.long1 %} 
-    
-    {% t about.long2 %} 
-    
-    {% t about.long3 %}
-</p>
+<div>
+    <p>
+        {% t about.long1 %} 
+    </p> 
+    <p>
+        {% t about.long2 %} 
+    </p>   
+    <p>
+        {% t about.long3 %}
+    </p>
+</div>
 
 <br>
 
-<h3> {% t about.short2 %} <h3>
+<h3> {% t about.short2 %} </h3>
 <p>Juraj Batelja {% t about.pres %}, Pierre-Louis Palant {% t about.vice %}, Antonija Lepur {% t about.trea %}</p>
 
