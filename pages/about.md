@@ -28,6 +28,6 @@ tags: [Page]
 
 <h4>{% t about.membership %}</h4>
 
-<a class="clear" aria-label="membership" title="{% t titles.membership %}" href="{{ /membership/ || relative_url }}">
+<a class="clear" aria-label="membership" title="membership" href="/membership/">
     {% t about.membership2 %}                    
 </a>
