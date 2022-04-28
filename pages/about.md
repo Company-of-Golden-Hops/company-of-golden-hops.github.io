@@ -20,5 +20,5 @@ tags: [Page]
 
 <br>
 
-<h3> {% t about.short2} <h3>
+<h3> {% t about.short2 %} <h3>
 <p>Juraj Batelja {% t about.pres %}, Pierre-Louis Palant {% t about.vice %}, Antonija Lepur {% t about.treas %}</p>
