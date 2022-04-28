@@ -26,3 +26,8 @@ tags: [Page]
 <h3> {% t about.short2 %} </h3>
 <p>Juraj Batelja {% t about.pres %}, Pierre-Louis Palant {% t about.vice %}, Antonija Lepur {% t about.trea %}</p>
 
+<h4>{% t about.membership %}</h4>
+
+<a class="clear" aria-label="membership" title="{% t titles.membership %}" href="{{ /membership/ || relative_url }}">
+    {% t about.membership2 %}                    
+</a>

@@ -7,6 +7,7 @@ titles:
   er404: Page not found !
   gallery: Gallery
   search: Search
+  membership: "Membership"
   tags: Tags
 subtitles:
   home: "Living history group"
@@ -14,6 +15,7 @@ subtitles:
   services: "Here you can find what the company offers to do on events"
   gallery: "Pictures taken on our adventures :)"
   search: "What are you searching for ?"
+  membership: "How to join the Company ?"
 home:
   header_text: "WOW SHINY"
   content:
@@ -29,7 +31,8 @@ promoting and reenecting history from antiquity to the early modern era of Croat
   pres: "President"
   vice: "Vice-President"
   trea: "Treasurer"
-  membership: "Want to be a member of our Company?"
+  membership: "Interested?"
+  membership2: "Head over here to learn how you can join us!"
 portfolio:
   contentbg:
     header_text: "Boardgames"
