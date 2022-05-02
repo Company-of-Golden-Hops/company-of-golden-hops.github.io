@@ -2,7 +2,7 @@ global:
   title: Company of the Golden Hops
 titles: 
   home: Welcome
-  services: What we offer
+  whatweoffer: What we offer
   about: About us
   er404: Page not found !
   gallery: Gallery
@@ -12,7 +12,7 @@ titles:
 subtitles:
   home: "Living history group"
   about: "AURUM ET CERVISIA"
-  services: "Here you can find what the company offers to do on events"
+  whatweoffer: "Here you can find what the company offers to do on events"
   gallery: "Pictures taken on our adventures :)"
   search: "What are you searching for ?"
   membership: "How to join the Company ?"
