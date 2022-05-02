@@ -45,7 +45,7 @@ membership:
   step2:
     step2name: "Voting at the Session of the group and Application Form"
     step2desc1: "If the application is accepted from the interested person, the candidate signs the"
-    step2docname: "APPLICATION FORM for membership in the Company of the Golden Hops".
+    step2docname: "APPLICATION FORM for membership in the Company of the Golden Hops"
     step2desc2: "which they will receive from the secretary of the group. They need to attach their photo and pay the amount of the annual membership fee (200 HRK). They can communicate with the secretary of the group via the email address of the group."
   step3:
     step3name: "Entry in the register of members"
