@@ -18,7 +18,7 @@ tags: [membership]
     
     {% t membership.step1.step1desc2 %} 
     
-    {% t membership.step1.step1desc3} %}
+    {% t membership.step1.step1desc3 %}
   </p>
   <h6>{% t membership.step2.step2name %} </h6>
   <p> 
