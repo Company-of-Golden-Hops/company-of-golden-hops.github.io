@@ -23,8 +23,7 @@ home:
     h2: "this is a test h2"
 about:
   short1: "Who are we and what do we do?"
-  long1: "Company of the golden hops is a Croatian non-profit association of citizens, established for the purpose of studying,
-promoting and reenecting history from antiquity to the early modern era of Croatian and European cultural and historical heritage."
+  long1: "Company of the golden hops is a Croatian non-profit association of citizens, established for the purpose of studying,promoting and reenecting history from antiquity to the early modern era of Croatian and European cultural and historical heritage."
   long2: "The association operates according to the most modern and up-to-date world principles, achievements and rules of historical reenectment."
   long3: "The main theme we are doing is a historical Italian mercenary company from 1375 to 1420."
   short2: "Bureau:"
@@ -33,6 +32,26 @@ promoting and reenecting history from antiquity to the early modern era of Croat
   trea: "Treasurer"
   membership: "Interested?"
   membership2: "Head over here to learn how you can join us!"
+membership:
+  short1: "For all potential interested members, we recommend reading the page"
+  short2: "and"
+  short3: "If you want to participate in the activities and goals of the group, you can apply through the following steps:"
+  step1:
+    step1name: "Request"
+    step1desc1: "The interested person contacts the email of the group and receives the document"
+    step1docname: "Request for consideration of membership in the Company of the Golden Hops"
+    step1desc2: "They have to fill the document and return it to the group."
+    step1desc3: "Interested persons are advised to socialize with members of the group in order to meet as many members as possible."
+  step2:
+    step2name: "Voting at the Session of the group and Application Form"
+    step2desc1: "If the application is accepted from the interested person, the candidate signs the"
+    step2docname: "APPLICATION FORM for membership in the Company of the Golden Hops"
+    step2desc2: "which they will receive from the secretary of the group. They need to attach their photo and pay the amount of the annual membership fee (200 HRK). They can communicate with the secretary of the group via the email address of the group."
+  step3:
+    step3name: "Entry in the register of members"
+    step3desc1: "After the complete application from, the secretary logs the new member in the"
+    step3docname: "Register of Members"
+    step3desc2: "Upon entering the group, the new member is entitled to all information and information resources within the group, as well as rights and obligations under the Codex in the Statute of the group."
 portfolio:
   contentbg:
     header_text: "Boardgames"
