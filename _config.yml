@@ -10,7 +10,7 @@ exclude_from_localizations: ["_plugins", "assets", "_sass"]
 avatar: https://company-of-golden-hops.github.io/assets/img/pexels/grb_hops_vektor.png
 favicon: https://company-of-golden-hops.github.io/assets/img/pexels/favicon.ico
 
-header_feature_image: https://company-of-golden-hops.github.io/assets/img/banner3.png
+header_feature_image: https://company-of-golden-hops.github.io/assets/img/banner4.jpg
 header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
