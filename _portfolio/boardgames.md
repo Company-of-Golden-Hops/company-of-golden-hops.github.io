@@ -1,7 +1,7 @@
 ---
 layout: post
 title: portfolio.contentbg.header_text
-img: "assets/img/portfolio/boardgames.jpg"
+img: "assets/img/portfolio/boardgames.png"
 date: 23/04/2022
 tags: [boardgames]
 ---

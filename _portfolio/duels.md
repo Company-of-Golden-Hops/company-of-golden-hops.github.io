@@ -1,7 +1,7 @@
 ---
 layout: post
 title: portfolio.contentduel.header_text
-img: "assets/img/portfolio/billhook.jpg"
+img: "assets/img/portfolio/duel.png"
 date: 23/04/2022
 tags: [duels, fighting]
 ---
