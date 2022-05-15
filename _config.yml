@@ -6,7 +6,9 @@ plugins:
 languages: ["en"]
 exclude_from_localizations: ["_plugins", "assets", "_sass"]
 
-# Header and footer text
+# Site images
+avatar: assets/img/pexels/grb_hops_vektor.png
+favicon: assets/img/pexels/favicon.ico
 
 header_feature_image: assets/img/banner.png
 header_feature_image_responsive: true
