@@ -3,7 +3,7 @@ url: "https://company-of-golden-hops.github.io/"
 exclude: [ "README.md", "LICENSE", "vendor" ]
 plugins:
     - jekyll-multiple-languages-plugin
-languages: ["en"]
+languages: ["hr","en"]
 exclude_from_localizations: ["_plugins", "assets", "_sass"]
 
 # Site images
