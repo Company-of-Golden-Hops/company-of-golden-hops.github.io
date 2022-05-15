@@ -10,7 +10,7 @@ exclude_from_localizations: ["_plugins", "assets", "_sass"]
 avatar: assets/img/pexels/grb_hops_vektor.png
 favicon: assets/img/pexels/favicon.ico
 
-header_feature_image: assets/img/banner2.png
+header_feature_image: assets/img/banner3.png
 header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
