@@ -4,7 +4,7 @@ exclude: [ "README.md", "LICENSE", "vendor" ]
 plugins:
     - jekyll-multiple-languages-plugin
 languages: ["hr","en"]
-exclude_from_localizations: ["_plugins", "assets", "_sass"]
+exclude_from_localizations: ["_plugins"]
 
 # Site images
 avatar: https://company-of-golden-hops.github.io/assets/img/pexels/grb_hops_vektor.png
