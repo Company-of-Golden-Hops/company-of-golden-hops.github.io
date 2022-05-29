@@ -3,9 +3,9 @@
     {% for item in site.portfolio %}
     <div class="portfolio-cell">
         <a class="portfolio-link" data-keyboard="true" href="{{ item.url | relative_url }}">
-            <div class="caption" title="{{ item.title }}">
+            <div class="caption" title="{{% t item.title %}}">
                 <div class="caption-content">
-                    {{ % item.title % }}
+                    {{% t item.title %}}
                 </div>
             </div>
             <img alt="" class="" src="{{ item.img | relative_url }}">
