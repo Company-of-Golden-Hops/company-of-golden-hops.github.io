@@ -23,7 +23,10 @@ tags: [Page]
 <br>
 
 <h3> {% t about.short2 %} </h3>
-<p>Juraj Batelja {% t about.pres %}, Pierre-Louis Palant {% t about.vice %}, Antonija Lepur {% t about.trea %}</p>
+<p>Juraj Batelja {% t about.pres %}</p>![image]({{ assets/img/gallery/juraj.jpg | relative_url }})
+<p> Pierre-Louis Palant {% t about.vice %},</p>![image]({{ assets/img/gallery/pierre.jpg | relative_url }})
+<p> Antonija Lepur {% t about.trea %}</p>![image]({{ assets/img/gallery/antonija.jpg | relative_url }})
+
 
 <h4>{% t about.membership %}</h4>
 
