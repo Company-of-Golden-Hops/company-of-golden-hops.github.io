@@ -4,6 +4,7 @@ title : titles.membership
 permalink: /membership/
 subtitle: subtitles.membership 
 tags: [membership]
+hide: true
 ---
 
 <h5>{% t membership.short1 %} <a class="clear" aria-label="about" title="about" href="/about/">{% t titles.about %}</a> {% t membership.short2 %} <a class="clear" aria-label="whatweoffer" title="whatweoffer" href="/whatweoffer/">{% t titles.whatweoffer %}</a>. </h5>

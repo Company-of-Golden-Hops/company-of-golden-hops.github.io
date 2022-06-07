@@ -1,6 +1,7 @@
 global:
   title: Red Zlatnoga Hmelja
 titles: 
+  wip: Web stranica u izgradnji!
   home: Dobro Došli!
   whatweoffer: Ponuda
   about: O nama
@@ -9,6 +10,7 @@ titles:
   membership: "Membership"
   tags: Tags
 subtitles:
+  wip: "Web stranica je trenutno u izradi. Posjetite nas kasnije ili potražite nas potražite na društvenim mrežama."
   home: "Living history group"
   about: "AURUM ET CERVISIA"
   whatweoffer: "Here you can find what the company offers to do on events"

@@ -1,6 +1,7 @@
 global:
   title: Company of the Golden Hops
 titles: 
+  wip: Work in Progress!
   home: Welcome
   whatweoffer: What we offer
   about: About us
@@ -10,6 +11,7 @@ titles:
   membership: "Membership"
   tags: Tags
 subtitles:
+  wip: "This website is currently under construction. Check our other social media pages down below!"
   home: "Living history group"
   about: "AURUM ET CERVISIA"
   whatweoffer: "Here you can find what the company offers to do on events"
