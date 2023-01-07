@@ -1,6 +1,6 @@
 <!-- Portfolio Grid Section -->
 <div class="portfolio-grid">
-    {% for item in site.portfolio.workshops %}
+    {% for item in site.workshops %}
     <div class="portfolio-cell">
         <a class="portfolio-link" data-keyboard="true" href="{{ item.url | relative_url }}">
             <div class="caption" title="{{% t item.title %}}">
