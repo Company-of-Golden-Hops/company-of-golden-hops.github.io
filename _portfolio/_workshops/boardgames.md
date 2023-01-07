@@ -1,9 +1,9 @@
 ---
 layout: post
 title: portfolio.contentbg.header_text
-img: "assets/img/portfolio/boardgames.png"
+img: "assets/img/portfolio/boardgames3.jpg"
 date: 23/04/2022
-tags: [boardgames]
+tags: [boardgames, offers, workshops]
 ---
 <h1>{% t portfolio.contentbg.h1 %}</h1>
 <p>{% t portfolio.contentbg.p1 %}</p>

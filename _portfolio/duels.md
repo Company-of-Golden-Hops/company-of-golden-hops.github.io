@@ -3,7 +3,7 @@ layout: post
 title: portfolio.contentduel.header_text
 img: "assets/img/portfolio/duel.png"
 date: 23/04/2022
-tags: [duels, fighting]
+tags: [duels, fighting, offers]
 ---
 
 <h1>{% t portfolio.contentduel.h1 %}</h1>

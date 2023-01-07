@@ -18,7 +18,7 @@ subtitles:
   search: "What are you searching for ?"
   membership: "How to join the Company ?"
 home:
-  header_text: "WOW SHINY"
+  header_text: "in Croatian: WOW SHINY"
   content:
     h1: "THis is a test h1"
     h2: "this is a test h2"
@@ -55,7 +55,7 @@ membership:
     step3desc2: "Upon entering the group, the new member is entitled to all information and information resources within the group, as well as rights and obligations under the Codex in the Statute of the group."
 portfolio:
   contentbg:
-    header_text: "Boardgames"
+    header_text: "in Croatian: Boardgames"
     h1: "Authentic ludic experience"
     p1: "We offer a number or boardgames for visitors to play, all teken directly from historical sources or of historical inspiration."
     p2: "Click on the names to learn more!"
@@ -71,9 +71,20 @@ portfolio:
         desc2: "It's really fun"
         desc3: "TODO: Add rules"
   contentduel:
-    header_text: "Duels"
+    header_text: "in Croatian: Duels"
     h1: "Demonstration of Historical Duels"
     p1: "Watch as our members trained in historical European martial arts demonstrate how duels could have happened!"
   calligraphy:
-    header_text: "Enrol a skilled scribe for your event!"
+    header_text: "in Croatian: Enrol a skilled scribe for your event!"
     p1: "Get your visitors a beautifully calligraphed souvenir of your event!"
+  camp:
+    header_text: "in Croatian: Authentic camp and furniture"
+    p1: "Some things about camps and tents."
+  members:
+    header_text: "in Croatian: Historical clothing, worn by people!"
+    p1: "Our members wear historical clothing, armor, and weapons."
+  workshops:
+    header_text: "in Croatian: Our group offers several workshops for visitors:"
+  displays: 
+    header_text: "in Croatian: Non-interactive displays"
+    p1: "Those displays are just for looks, in opposition to our interactive workshops."

@@ -78,3 +78,15 @@ portfolio:
   calligraphy:
     header_text: "Enrol a skilled scribe for your event!"
     p1: "Get your visitors a beautifully calligraphed souvenir of your event!"
+  camp:
+    header_text: "Authentic camp and furniture"
+    p1: "Some things about camps and tents."
+  members:
+    header_text: "Historical clothing, worn by people!"
+    p1: "Our members wear historical clothing, armor, and weapons."
+  workshops:
+    header_text: "Our group offers several workshops for visitors:"
+  displays: 
+    header_text: "Non-interactive displays"
+    p1: "Those displays are just for looks, in opposition to our interactive workshops."
+
