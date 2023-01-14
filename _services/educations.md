@@ -1,7 +1,7 @@
 ---
 layout: post
 title: services.educations.header_text
-img: "assets/img/services/boardgames3.png"
+img: "assets/img/services/boardgames3.jpg"
 date: 23/04/2022
 tags: [education, learning, offers]
 ---
