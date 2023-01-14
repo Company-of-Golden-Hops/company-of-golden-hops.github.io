@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: portfolio.workshops.header_text
 img: "assets/img/portfolio/boardgames.jpg"
 date: 07/01/2023
