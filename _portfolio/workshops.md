@@ -1,8 +1,8 @@
 ---
 layout: page
 title: portfolio.workshops.header_text
+permalink: /whatweoffer/workshops/
 img: "assets/img/portfolio/boardgames.jpg"
-date: 07/01/2023
 tags: [members, offers, clothing, armors, weapons]
 ---
 
