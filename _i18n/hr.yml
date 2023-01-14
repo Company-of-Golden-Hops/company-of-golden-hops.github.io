@@ -89,5 +89,6 @@ services:
     header_text: "in Croatian: Non-interactive displays"
     p1: "Those displays are just for looks, in opposition to our interactive workshops."
   educations: 
-    header_text: "Teaching living history"
+    header_text: "In croatian: Teaching living history"
+    h1: "Educations"
     p1: "We can come to your school and teach the students about the late medieval era."

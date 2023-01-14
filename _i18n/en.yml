@@ -91,4 +91,5 @@ services:
     p1: "Those displays are just for looks, in opposition to our interactive workshops."
   educations: 
     header_text: "Teaching living history"
+    h1: "Educations"
     p1: "We can come to your school and teach the students about the late medieval era."
