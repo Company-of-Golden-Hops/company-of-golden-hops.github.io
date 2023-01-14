@@ -25,17 +25,17 @@
       display: block;
     }
 
-    .caption-content {
-      font-size: 15px;
-      color: white;
-      text-shadow: -1px 0 #ddd, 0 1px #ddd, 1px 0 #ddd, 0 -1px #ddd;
-      display: inline-block;
-      vertical-align: middle;
+    // .caption-content {
+    //   font-size: 15px;
+    //   color: white;
+    //   text-shadow: -1px 0 #ddd, 0 1px #ddd, 1px 0 #ddd, 0 -1px #ddd;
+    //   display: inline-block;
+    //   vertical-align: middle;
 
-      @media screen and (max-width: $sm-break) {
-        font-size: 7px;
-      }
-    }
+    //   @media screen and (max-width: $sm-break) {
+    //     font-size: 7px;
+    //   }
+    // }
   }
 }
 
