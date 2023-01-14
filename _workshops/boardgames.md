@@ -1,27 +1,27 @@
 ---
 layout: post
-title: portfolio.contentbg.header_text
-img: "assets/img/portfolio/boardgames3.jpg"
+title: services.contentbg.header_text
+img: "assets/img/services/boardgames3.jpg"
 date: 23/04/2022
 tags: [boardgames, offers, workshops]
 ---
-<h1>{% t portfolio.contentbg.h1 %}</h1>
-<p>{% t portfolio.contentbg.p1 %}</p>
+<h1>{% t services.contentbg.h1 %}</h1>
+<p>{% t services.contentbg.p1 %}</p>
 
 ![image]({{ page.img | relative_url }})
 
-<p>{% t portfolio.contentbg.p2 %}</p>
+<p>{% t services.contentbg.p2 %}</p>
 
 <details>
-    <summary><strong>{% t portfolio.contentbg.list.tt.name %}</strong> - <em>Todas Tablas</em></summary>
-    {% t portfolio.contentbg.list.tt.desc1 %}
-    {% t portfolio.contentbg.list.tt.desc2 %}
-    {% t portfolio.contentbg.list.tt.desc3 %}
+    <summary><strong>{% t services.contentbg.list.tt.name %}</strong> - <em>Todas Tablas</em></summary>
+    {% t services.contentbg.list.tt.desc1 %}
+    {% t services.contentbg.list.tt.desc2 %}
+    {% t services.contentbg.list.tt.desc3 %}
 </details>
 
 <details>
-    <summary><strong>{% t portfolio.contentbg.list.fa.name %}</strong> - <em>Farkle</em></summary>
-    {% t portfolio.contentbg.list.fa.desc1 %}
-    {% t portfolio.contentbg.list.fa.desc2 %}
-    {% t portfolio.contentbg.list.fa.desc3 %}
+    <summary><strong>{% t services.contentbg.list.fa.name %}</strong> - <em>Farkle</em></summary>
+    {% t services.contentbg.list.fa.desc1 %}
+    {% t services.contentbg.list.fa.desc2 %}
+    {% t services.contentbg.list.fa.desc3 %}
 </details>

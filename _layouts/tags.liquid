@@ -13,11 +13,11 @@ layout: page
     {% endif %}
     {% endfor %}
 
-    <!-- cycles through portfolio collection to get tags -->
-    {% assign portfolio = site.portfolio | map: 'tags' | join: ',' | split: ',' | uniq %}
-    {% for tag in portfolio %}
-    {% assign portfolio_tags = tag | join: '|' | append: '|' %}
-    {% assign rawtags = rawtags | append: portfolio_tags %}
+    <!-- cycles through services collection to get tags -->
+    {% assign services = site.services | map: 'tags' | join: ',' | split: ',' | uniq %}
+    {% for tag in services %}
+    {% assign services_tags = tag | join: '|' | append: '|' %}
+    {% assign rawtags = rawtags | append: services_tags %}
     {% endfor %}
 
     <!-- cycles through pages to get tags -->
@@ -70,8 +70,8 @@ layout: page
             {% endif %}
             {% endfor %}
 
-            <!-- Portfolio -->
-            {% for note in site.portfolio %}
+            <!-- Services -->
+            {% for note in site.services %}
             {% if note.tags contains tag %}
             <h5 class="tag-title">
                 <a href="{{ note.url | relative_url }}">

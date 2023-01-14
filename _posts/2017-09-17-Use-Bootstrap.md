@@ -17,7 +17,7 @@ Add some custom Bootstrap in the custom layout!
 ### Snippet example
 
 If you are new to Bootstrap you can  always check the [documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/).<br>
-Here is an example from [startbootstrap.com](https://startbootstrap.com/snippets/portfolio-two-column).
+Here is an example from [startbootstrap.com](https://startbootstrap.com/snippets/services-two-column).
 
 <!-- Page Content -->
 <div class="container">

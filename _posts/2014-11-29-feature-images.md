@@ -38,11 +38,11 @@ Here you have two images side by side, but you can set more and set the amount p
 
 {% highlight ruby %}
 {% raw %}
-{% include aligner.html images="portfolio/cabin.png,portfolio/cake.png,portfolio/circus.png" column=3 %}
+{% include aligner.html images="services/cabin.png,services/cake.png,services/circus.png" column=3 %}
 {% endraw %}
 {% endhighlight %}
 
-{% include aligner.html images="portfolio/cabin.png,portfolio/cake.png,portfolio/circus.png" column=3 %}
+{% include aligner.html images="services/cabin.png,services/cake.png,services/circus.png" column=3 %}
 
 it also works with only one images, it is made to display it smaller than normally.
 However you can just use the Markdown way of doing it to get the image normal sized and centered.

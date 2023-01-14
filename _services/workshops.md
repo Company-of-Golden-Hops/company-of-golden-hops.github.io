@@ -1,7 +1,7 @@
 ---
 layout: page
-title: portfolio.workshops.header_text
-img: "assets/img/portfolio/boardgames.jpg"
+title: services.workshops.header_text
+img: "assets/img/services/boardgames.jpg"
 tags: [members, offers, clothing, armors, weapons]
 ---
 

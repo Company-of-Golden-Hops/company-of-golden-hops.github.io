@@ -3,7 +3,7 @@ global:
 titles: 
   wip: Web stranica u izgradnji!
   home: Dobro Došli!
-  whatweoffer: Ponuda
+  services: Ponuda
   about: O nama
   er404: Page not found !
   gallery: Galerija
@@ -13,7 +13,7 @@ subtitles:
   wip: "Web stranica je trenutno u izradi. Posjetite nas kasnije ili potražite nas potražite na društvenim mrežama."
   home: "Living history group"
   about: "AURUM ET CERVISIA"
-  whatweoffer: "Here you can find what the company offers to do on events"
+  services: "Here you can find what the company offers to do on events"
   gallery: "Pictures taken on our adventures :)"
   search: "What are you searching for ?"
   membership: "How to join the Company ?"
@@ -53,7 +53,7 @@ membership:
     step3desc1: "After the complete application from, the secretary logs the new member in the"
     step3docname: "Register of Members"
     step3desc2: "Upon entering the group, the new member is entitled to all information and information resources within the group, as well as rights and obligations under the Codex in the Statute of the group."
-portfolio:
+services:
   contentbg:
     header_text: "in Croatian: Boardgames"
     h1: "Authentic ludic experience"
