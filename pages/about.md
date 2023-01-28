@@ -27,7 +27,7 @@ hide: false
 
  Antonija Lepur {% t about.trea %} | Juraj Batelja {% t about.pres %} | Pierre-Louis Palant {% t about.vice %} |
 :-------------------------:|:-------------------------:|:------------------------------------------------------:
-![image]({{ "assets/img/gallery/bureau.jpg" | relative_url }})
+![image]({{ "assets/img/gallery/bureau.jpg" | relative_url }})|
 
 
 <h4>{% t about.membership %}</h4>
