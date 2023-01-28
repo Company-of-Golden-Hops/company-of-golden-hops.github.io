@@ -8,8 +8,6 @@ tags: [education, learning, offers]
 
 <p>{% t services.educations.p1 %}</p>
 
-![image]({{ page.img | relative_url }})
-
 <details>
     <summary><strong>{% t services.educations.list.item1.name %}</strong></summary>
     {% t services.educations.list.item1.desc %}
@@ -19,3 +17,5 @@ tags: [education, learning, offers]
     <summary><strong>{% t services.educations.list.item2.name %}</strong></summary>
     {% t services.educations.list.item2.desc %}
 </details>
+
+![image]({{ page.img | relative_url }})

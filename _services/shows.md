@@ -8,7 +8,7 @@ tags: [duels, fighting, shows, offers]
 
 <p>{% t services.shows.p1 %}</p>
 
-![image]({{ page.img | relative_url }})
+
 
 <details>
     <summary><strong>{% t services.shows.list.item1.name %}</strong></summary>
@@ -19,3 +19,5 @@ tags: [duels, fighting, shows, offers]
     <summary><strong>{% t services.shows.list.item2.name %}</strong></summary>
     {% t services.shows.list.item2.desc %}
 </details>
+
+![image]({{ page.img | relative_url }})

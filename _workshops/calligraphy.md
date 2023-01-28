@@ -7,5 +7,7 @@ tags: [calligraphy, offers, workshops]
 ---
 
 <p>{% t services.calligraphy.p1 %}</p>
-![image]({{ page.img | relative_url }})
+
 <p>{% t services.calligraphy.p2 %}</p>
+
+![image]({{ page.img | relative_url }})

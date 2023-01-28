@@ -7,7 +7,7 @@ tags: [displays, offers]
 ---
 <p>{% t services.displays.p1 %}</p>
 
-![image]({{ page.img | relative_url }})
+
 
 <details>
     <summary><strong>{% t services.displays.list.item1.name %}</strong></summary>
@@ -28,3 +28,5 @@ tags: [displays, offers]
     <summary><strong>{% t services.displays.list.item4.name %}</strong></summary>
     {% t services.displays.list.item4.desc %}
 </details>
+
+![image]({{ page.img | relative_url }})

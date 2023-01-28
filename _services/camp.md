@@ -7,7 +7,7 @@ tags: [camp, offers]
 ---
 
 <p>{% t services.camp.p1 %}</p>
-![image]({{ page.img | relative_url }})
 <p>{% t services.camp.p2 %}</p>
 <p>{% t services.camp.p3 %}</p>
 <p>{% t services.camp.p4 %}</p>
+![image]({{ page.img | relative_url }})

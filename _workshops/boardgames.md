@@ -8,7 +8,7 @@ tags: [boardgames, offers, workshops]
 <h1>{% t services.contentbg.h1 %}</h1>
 <p>{% t services.contentbg.p1 %}</p>
 
-![image]({{ page.img | relative_url }})
+
 
 <p>{% t services.contentbg.p2 %}</p>
 
@@ -25,3 +25,4 @@ tags: [boardgames, offers, workshops]
     {% t services.contentbg.list.fa.desc2 %}
     {% t services.contentbg.list.fa.desc3 %}
 </details>
+![image]({{ page.img | relative_url }})
