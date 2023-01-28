@@ -76,8 +76,9 @@ services:
     h1: "In croatian: Demonstration of Historical Duels"
     p1: "In croatian: Watch as our members trained in historical European martial arts demonstrate how duels could have happened!"
   calligraphy:
-    header_text: "In croatian: Enrol a skilled scribe for your event!"
+    header_text: "In croatian: Calligraphy"
     p1: "In croatian: Get your visitors a beautifully calligraphed souvenir of your event!"
+    p2: "In croatian: This workshop does not require a table and sitting arrangment by the organizer."
   camp:
     header_text: "In croatian: Authentic camp and furniture"
     p1: "In croatian: The group offers a display of a camp owned by a condottiero company. 
