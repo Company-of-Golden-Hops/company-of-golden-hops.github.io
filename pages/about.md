@@ -36,7 +36,7 @@ hide: false
     <tbody>
         <tr>
             <td colspan=3>
-                ![image]({{ "assets/img/gallery/bureau.jpg" | relative_url }})
+            <img src="assets/img/gallery/bureau.jpg">
             </td>
         </tr>
     </tbody>
