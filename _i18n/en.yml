@@ -91,42 +91,25 @@ services:
     p2: "This workshop does not require a table and sitting arrangment by the organizer."
   camp:
     header_text: "Authentic camp and furniture"
-    p1: "The group offers a display of a camp owned by a condottiero company. 
-    The heart of the camp is a kitchen, accompanied by historically inspired furniture and tents which all together 
-    enliven the whole camp."
-    p2: "During the night visitors can see how the groups drinks, sings and jokes together as candles,
-     lanterns and torches illuminate the camp."
-    p3: "The base camp consists of historical tents, shed and furniture.
-    The camp can be expanded with various elements from the "Displays" offer."
-    p4: "The camp and its furniture can be used for props in filming and photo sessions, 
-    with few group members being needed for assembly and to take care of the group property."
+    p1: "The group offers a display of a camp owned by a condottiero company. The heart of the camp is a kitchen, accompanied by historically inspired furniture and tents which all together enliven the whole camp."
+    p2: "During the night visitors can see how the groups drinks, sings and jokes together as candles, lanterns and torches illuminate the camp."
+    p3: "The base camp consists of historical tents, shed and furniture. The camp can be expanded with various elements from the "Displays" offer."
+    p4: "The camp and its furniture can be used for props in filming and photo sessions, with few group members being needed for assembly and to take care of the group property."
   battles:
     header_text: "Taking part in battles"
-    p1: "As a true condottiero company, the group can provide its soldiers to take part in reenactment battles.
-    The group fighters can also be background characters for shows 
-    and other occasions where you want to have medieval fighters."
+    p1: "As a true condottiero company, the group can provide its soldiers to take part in reenactment battles. The group fighters can also be background characters for shows and other occasions where you want to have medieval fighters."
   members:
     header_text: " Weapons, armor and clothes"
-    p1: "The group represents a condottiero company from north Italy in the period of 1375-1420, 
-    with displays of different mercenaries and persons who were active in that time period in north Italy."
-    p2: "The group's weapons and armor consist of reproductions of original pieces from various museums and collections. 
-    Such equipment would be used by mercenaries and soldiers in the period. 
-    From the poor infantry who only had a "Gambeson" and spear, to knights in full plate armor. 
-    The group's clothes are authentic clothes in style and colors inspired from different manuscripts, frescoes 
-    and extant examples."
+    p1: "The group represents a condottiero company from north Italy in the period of 1375-1420, with displays of different mercenaries and persons who were active in that time period in north Italy."
+    p2: "The group's weapons and armor consist of reproductions of original pieces from various museums and collections. Such equipment would be used by mercenaries and soldiers in the period. From the poor infantry who only had a "Gambeson" and spear, to knights in full plate armor. The group's clothes are authentic clothes in style and colors inspired from different manuscripts, frescoes and extant examples."
     p3: "Group members in their clothes and armor are avilable for any sort of filming where you require medieval people."
   workshops:
     header_text: "Workshops"
-    p1: "The group offers a collection of workshops and interactive displays with the aim to be educational, 
-    fun and enjoyable by all age groups."
-    p2: "The groups expects the organizer to provide the space, and if needed, the tables and sitting arrangement.
-    Workshops which don't require the organizer's desk and sitting arragment are described as such at the end of the 
-    description."
+    p1: "The group offers a collection of workshops and interactive displays with the aim to be educational, fun and enjoyable by all age groups."
+    p2: "The groups expects the organizer to provide the space, and if needed, the tables and sitting arrangement. Workshops which don't require the organizer's desk and sitting arragment are described as such at the end of the description."
   displays: 
     header_text: "Displays"
-    p1: "The group offer a number of displays integrated within the group camp, 
-    which are centered to animate and expand the camp as well as educate the visitors in a more interactive approach 
-    compared to the group workshops."
+    p1: "The group offer a number of displays integrated within the group camp, which are centered to animate and expand the camp as well as educate the visitors in a more interactive approach compared to the group workshops."
     list:
       item1: 
         name: "Calligrahpy"
@@ -146,9 +129,7 @@ services:
     list:
       item1: 
         name: "One on one swordfight lessons."
-        desc: "If you are interested to learn the basics and maybe some more advanced moves, 
-        you can get private training with one of the members with years of experience in HEMA."
+        desc: "If you are interested to learn the basics and maybe some more advanced moves, you can get private training with one of the members with years of experience in HEMA."
       item2: 
         name: "Presentations about various aspects of the medieval times"
-        desc: "Presentations include covering topics such as: medieval clothes, food, weapons & armor.
-        Content can be modified per demand"
+        desc: "Presentations include covering topics such as: medieval clothes, food, weapons & armor. Content can be modified per demand"
