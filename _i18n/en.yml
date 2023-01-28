@@ -1,15 +1,15 @@
 global:
-  title: Company of the Golden Hops
+  title: "Company of the Golden Hops"
 titles: 
-  wip: Work in Progress!
-  home: Welcome
-  services: Services
-  about: About us
-  er404: Page not found !
-  gallery: Gallery
-  search: Search
+  wip: "Work in Progress!"
+  home: "Welcome"
+  services: "Services"
+  about: "About us"
+  er404: "Page not found!"
+  gallery: "Gallery"
+  search: "Search"
   membership: "Membership"
-  tags: Tags
+  tags: "Tags"
 subtitles:
   wip: "This website is currently under construction. Check our other social media pages down below!"
   home: "Living history group"
