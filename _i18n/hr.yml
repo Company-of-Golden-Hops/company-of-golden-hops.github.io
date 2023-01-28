@@ -105,7 +105,12 @@ services:
     and extant examples."
     p3: "In croatian: Group members in their clothes and armor are avilable for any sort of filming where you require medieval people."
   workshops:
-    header_text: "In croatian: Our group offers several workshops for visitors:"
+    header_text: "In croatian: Workshops"
+    p1: "In croatian: The group offers a collection of workshops and interactive displays with the aim to be educational, 
+    fun and enjoyable by all age groups."
+    p2: "In croatian: The groups expects the organizer to provide the space, and if needed, the tables and sitting arrangement.
+    Workshops which don't require the organizer's desk and sitting arragment are described as such at the end of the 
+    description."
   displays: 
     header_text: "In croatian: Non-interactive displays"
     p1: "In croatian: Those displays are just for looks, in opposition to our interactive workshops."
