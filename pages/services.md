@@ -4,7 +4,7 @@ title : titles.services
 permalink: /services/
 subtitle: subtitles.services 
 tags: [services]
-hide: true
+hide: false
 ---
 
 {% include services.html %}

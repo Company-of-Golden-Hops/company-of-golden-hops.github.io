@@ -4,7 +4,7 @@ title: titles.about
 subtitle: subtitles.about
 permalink: /about/
 tags: [Page]
-hide: true
+hide: false
 ---
 
 <h3>{% t about.short1 %}</h3>
