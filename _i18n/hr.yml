@@ -73,18 +73,14 @@ services:
         desc3: "In croatian: TODO: Add rules"
   shows:
     header_text: "In croatian: Shows and plays"
-    p1: "In croatian: The group can preform a few theatrical and dynamic shows and plays.
-    They can be preformed during the events or separatly on their own."
+    p1: "In croatian: The group can preform a few theatrical and dynamic shows and plays. They can be preformed during the events or separatly on their own."
     list:
       item1: 
         name: "In croatian: Historical duels"
-        desc: "In croatian: The group can offer duels based on historical fencing treatises combined with threatric elements 
-        for a higher enjoyment for the audience.
-        Duels are being preformed by members with years of experience in HEMA using matching or mixed weapons"
+        desc: "In croatian: The group can offer duels based on historical fencing treatises combined with threatric elements for a higher enjoyment for the audience. Duels are being preformed by members with years of experience in HEMA using matching or mixed weapons"
       item2: 
         name: "In croatian: Legend of the King Doghead"
-        desc: "In croatian: A short theatric play based on a legend from the Adriatic sea.
-        Featuring a cursed king, love and violence!"
+        desc: "In croatian: A short theatric play based on a legend from the Adriatic sea. Featuring a cursed king, love and violence!"
   calligraphy:
     header_text: "In croatian: Calligraphy"
     p1: "In croatian: Get your visitors a beautifully calligraphed souvenir of your event!"

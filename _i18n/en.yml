@@ -73,18 +73,14 @@ services:
         desc3: "TODO: Add rules"
   shows:
     header_text: "Shows and plays"
-    p1: "The group can preform a few theatrical and dynamic shows and plays.
-    They can be preformed during the events or separatly on their own."
+    p1: "The group can preform a few theatrical and dynamic shows and plays. They can be preformed during the events or separatly on their own."
     list:
       item1: 
         name: "Historical duels"
-        desc: "The group can offer duels based on historical fencing treatises combined with threatric elements 
-        for a higher enjoyment for the audience.
-        Duels are being preformed by members with years of experience in HEMA using matching or mixed weapons"
+        desc: "The group can offer duels based on historical fencing treatises combined with threatric elements for a higher enjoyment for the audience. Duels are being preformed by members with years of experience in HEMA using matching or mixed weapons"
       item2: 
         name: "Legend of the King Doghead"
-        desc: "A short theatric play based on a legend from the Adriatic sea.
-        Featuring a cursed king, love and violence!"
+        desc: "A short theatric play based on a legend from the Adriatic sea. Featuring a cursed king, love and violence!"
   calligraphy:
     header_text: "Calligraphy"
     p1: "Get your visitors a beautifully calligraphed souvenir of your event!"
