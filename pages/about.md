@@ -25,10 +25,22 @@ hide: false
 
 <h3> {% t about.short2 %} </h3>
 
- Antonija Lepur {% t about.trea %} | Juraj Batelja {% t about.pres %} | Pierre-Louis Palant {% t about.vice %} |
-:-------------------------:|:-------------------------:|:------------------------------------------------------:
-![image]({{ "assets/img/gallery/bureau.jpg" | relative_url }})|
-
+<table>
+    <thead>
+        <tr>
+            <th>Antonija Lepur {% t about.trea %}</th>
+            <th>Juraj Batelja {% t about.pres %}</th>
+            <th>Pierre-Louis Palant {% t about.vice %}</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan=3>
+                ![image]({{ "assets/img/gallery/bureau.jpg" | relative_url }})
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <h4>{% t about.membership %}</h4>
 
