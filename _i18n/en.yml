@@ -89,6 +89,11 @@ services:
     The camp can be expanded with various elements from the "Displays" offer."
     p4: "The camp and its furniture can be used for props in filming and photo sessions, 
     with few group members being needed for assembly and to take care of the group property."
+  battles:
+    header_text: "Taking part in battles"
+    p1: "As a true condottiero company, the group can provide its soldiers to take part in reenactment battles.
+    The group fighters can also be background characters for shows 
+    and other occasions where you want to have medieval fighters."
   members:
     header_text: " Weapons, armor and clothes"
     p1: "The group represents a condottiero company from north Italy in the period of 1375-1420, 
