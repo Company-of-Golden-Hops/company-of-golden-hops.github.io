@@ -82,8 +82,15 @@ services:
     header_text: "Authentic camp and furniture"
     p1: "Some things about camps and tents."
   members:
-    header_text: "Historical clothing, worn by people!"
-    p1: "Our members wear historical clothing, armor, and weapons."
+    header_text: " Weapons, armor and clothes"
+    p1: "The group represents a condottiero company from north Italy in the period of 1375-1420, 
+    with displays of different mercenaries and persons who were active in that time period in north Italy."
+    p2: "The group's weapons and armor consist of reproductions of original pieces from various museums and collections. 
+    Such equipment would be used by mercenaries and soldiers in the period. 
+    From the poor infantry who only had a "Gambeson" and spear, to knights in full plate armor. 
+    The group's clothes are authentic clothes in style and colors inspired from different manuscripts, frescoes 
+    and extant examples."
+    p3: "Group members in their clothes and armor are avilable for any sort of filming where you require medieval people."
   workshops:
     header_text: "Our group offers several workshops for visitors:"
   displays: 

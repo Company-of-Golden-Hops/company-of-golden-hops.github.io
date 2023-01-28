@@ -83,6 +83,8 @@ services:
   members:
     header_text: "in Croatian: Historical clothing, worn by people!"
     p1: "Our members wear historical clothing, armor, and weapons."
+    p2: "croatische"
+    p3: "hehehe"
   workshops:
     header_text: "in Croatian: Our group offers several workshops for visitors:"
   displays: 
