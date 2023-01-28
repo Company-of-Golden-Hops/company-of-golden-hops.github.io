@@ -71,10 +71,20 @@ services:
         desc1: "In croatian: This is a game played with 6 dice"
         desc2: "In croatian: It's really fun"
         desc3: "In croatian: TODO: Add rules"
-  contentduel:
-    header_text: "In croatian: Duels"
-    h1: "In croatian: Demonstration of Historical Duels"
-    p1: "In croatian: Watch as our members trained in historical European martial arts demonstrate how duels could have happened!"
+  shows:
+    header_text: "In croatian: Shows and plays"
+    p1: "In croatian: The group can preform a few theatrical and dynamic shows and plays.
+    They can be preformed during the events or separatly on their own."
+    list:
+      item1: 
+        name: "In croatian: Historical duels"
+        desc: "In croatian: The group can offer duels based on historical fencing treatises combined with threatric elements 
+        for a higher enjoyment for the audience.
+        Duels are being preformed by members with years of experience in HEMA using matching or mixed weapons"
+      item2: 
+        name: "In croatian: Legend of the King Doghead"
+        desc: "In croatian: A short theatric play based on a legend from the Adriatic sea.
+        Featuring a cursed king, love and violence!"
   calligraphy:
     header_text: "In croatian: Calligraphy"
     p1: "In croatian: Get your visitors a beautifully calligraphed souvenir of your event!"

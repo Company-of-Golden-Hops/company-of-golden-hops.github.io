@@ -71,10 +71,20 @@ services:
         desc1: "This is a game played with 6 dice"
         desc2: "It's really fun"
         desc3: "TODO: Add rules"
-  contentduel:
-    header_text: "Duels"
-    h1: "Demonstration of Historical Duels"
-    p1: "Watch as our members trained in historical European martial arts demonstrate how duels could have happened!"
+  shows:
+    header_text: "Shows and plays"
+    p1: "The group can preform a few theatrical and dynamic shows and plays.
+    They can be preformed during the events or separatly on their own."
+    list:
+      item1: 
+        name: "Historical duels"
+        desc: "The group can offer duels based on historical fencing treatises combined with threatric elements 
+        for a higher enjoyment for the audience.
+        Duels are being preformed by members with years of experience in HEMA using matching or mixed weapons"
+      item2: 
+        name: "Legend of the King Doghead"
+        desc: "A short theatric play based on a legend from the Adriatic sea.
+        Featuring a cursed king, love and violence!"
   calligraphy:
     header_text: "Calligraphy"
     p1: "Get your visitors a beautifully calligraphed souvenir of your event!"
