@@ -80,7 +80,15 @@ services:
     p1: "Get your visitors a beautifully calligraphed souvenir of your event!"
   camp:
     header_text: "Authentic camp and furniture"
-    p1: "Some things about camps and tents."
+    p1: "The group offers a display of a camp owned by a condottiero company. 
+    The heart of the camp is a kitchen, accompanied by historically inspired furniture and tents which all together 
+    enliven the whole camp."
+    p2: "During the night visitors can see how the groups drinks, sings and jokes together as candles,
+     lanterns and torches illuminate the camp."
+    p3: "The base camp consists of historical tents, shed and furniture.
+    The camp can be expanded with various elements from the "Displays" offer."
+    p4: "The camp and its furniture can be used for props in filming and photo sessions, 
+    with few group members being needed for assembly and to take care of the group property."
   members:
     header_text: " Weapons, armor and clothes"
     p1: "The group represents a condottiero company from north Italy in the period of 1375-1420, 

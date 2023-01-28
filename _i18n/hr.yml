@@ -1,96 +1,110 @@
 global:
-  title: Red Zlatnoga Hmelja
+  title: "In croatian: Company of the Golden Hops"
 titles: 
-  wip: Web stranica u izgradnji!
-  home: Dobro Došli!
-  services: Ponuda
-  about: O nama
-  er404: Page not found !
-  gallery: Galerija
-  membership: "Membership"
-  tags: Tags
+  wip: "In croatian: Work in Progress!"
+  home: "In croatian: Welcome"
+  services: "In croatian: Services"
+  about: "In croatian: About us"
+  er404: "In croatian: Page not found !"
+  gallery: "In croatian: Gallery"
+  search: "In croatian: Search"
+  membership: "In croatian: Membership"
+  tags: "In croatian: Tags"
 subtitles:
-  wip: "Web stranica je trenutno u izradi. Posjetite nas kasnije ili potražite nas potražite na društvenim mrežama."
-  home: "Living history group"
-  about: "AURUM ET CERVISIA"
-  services: "Here you can find what the company offers to do on events"
-  gallery: "Pictures taken on our adventures :)"
-  search: "What are you searching for ?"
-  membership: "How to join the Company ?"
+  wip: "In croatian: This website is currently under construction. Check our other social media pages down below!"
+  home: "In croatian: Living history group"
+  about: "In croatian: AURUM ET CERVISIA"
+  services: "In croatian: Here you can find what the company offers to do on events"
+  gallery: "In croatian: Pictures taken on our adventures :)"
+  search: "In croatian: What are you searching for ?"
+  membership: "In croatian: How to join the Company ?"
 home:
-  header_text: "in Croatian: WOW SHINY"
+  header_text: "In croatian: WOW SHINY"
   content:
-    h1: "THis is a test h1"
-    h2: "this is a test h2"
+    h1: "In croatian: THis is a test h1"
+    h2: "In croatian: this is a test h2"
 about:
-  short1: "Who are we and what do we do?"
-  long1: "Company of the golden hops is a Croatian non-profit association of citizens, established for the purpose of studying,promoting and reenecting history from antiquity to the early modern era of Croatian and European cultural and historical heritage."
-  long2: "The association operates according to the most modern and up-to-date world principles, achievements and rules of historical reenectment."
-  long3: "The main theme we are doing is a historical Italian mercenary company from 1375 to 1420."
-  short2: "Bureau:"
-  pres: "President"
-  vice: "Vice-President"
-  trea: "Treasurer"
-  membership: "Interested?"
-  membership2: "Head over here to learn how you can join us!"
+  short1: "In croatian: Who are we and what do we do?"
+  long1: "In croatian: Company of the golden hops is a Croatian non-profit association of citizens, established for the purpose of studying,promoting and reenecting history from antiquity to the early modern era of Croatian and European cultural and historical heritage."
+  long2: "In croatian: The association operates according to the most modern and up-to-date world principles, achievements and rules of historical reenectment."
+  long3: "In croatian: The main theme we are doing is a historical Italian mercenary company from 1375 to 1420."
+  short2: "In croatian: Bureau:"
+  pres: "In croatian: President"
+  vice: "In croatian: Vice-President"
+  trea: "In croatian: Treasurer"
+  membership: "In croatian: Interested?"
+  membership2: "In croatian: Head over here to learn how you can join us!"
 membership:
-  short1: "For all potential interested members, we recommend reading the page"
-  short2: "and"
-  short3: "If you want to participate in the activities and goals of the group, you can apply through the following steps:"
+  short1: "In croatian: For all potential interested members, we recommend reading the page"
+  short2: "In croatian: and"
+  short3: "In croatian: If you want to participate in the activities and goals of the group, you can apply through the following steps:"
   step1:
-    step1name: "Request"
-    step1desc1: "The interested person contacts the email of the group and receives the document"
-    step1docname: "Request for consideration of membership in the Company of the Golden Hops"
-    step1desc2: "They have to fill the document and return it to the group."
-    step1desc3: "Interested persons are advised to socialize with members of the group in order to meet as many members as possible."
+    step1name: "In croatian: Request"
+    step1desc1: "In croatian: The interested person contacts the email of the group and receives the document"
+    step1docname: "In croatian: Request for consideration of membership in the Company of the Golden Hops"
+    step1desc2: "In croatian: They have to fill the document and return it to the group."
+    step1desc3: "In croatian: Interested persons are advised to socialize with members of the group in order to meet as many members as possible."
   step2:
-    step2name: "Voting at the Session of the group and Application Form"
-    step2desc1: "If the application is accepted from the interested person, the candidate signs the"
-    step2docname: "APPLICATION FORM for membership in the Company of the Golden Hops"
-    step2desc2: "which they will receive from the secretary of the group. They need to attach their photo and pay the amount of the annual membership fee (200 HRK). They can communicate with the secretary of the group via the email address of the group."
+    step2name: "In croatian: Voting at the Session of the group and Application Form"
+    step2desc1: "In croatian: If the application is accepted from the interested person, the candidate signs the"
+    step2docname: "In croatian: APPLICATION FORM for membership in the Company of the Golden Hops"
+    step2desc2: "In croatian: which they will receive from the secretary of the group. They need to attach their photo and pay the amount of the annual membership fee (200 HRK). They can communicate with the secretary of the group via the email address of the group."
   step3:
-    step3name: "Entry in the register of members"
-    step3desc1: "After the complete application from, the secretary logs the new member in the"
-    step3docname: "Register of Members"
-    step3desc2: "Upon entering the group, the new member is entitled to all information and information resources within the group, as well as rights and obligations under the Codex in the Statute of the group."
+    step3name: "In croatian: Entry in the register of members"
+    step3desc1: "In croatian: After the complete application from, the secretary logs the new member in the"
+    step3docname: "In croatian: Register of Members"
+    step3desc2: "In croatian: Upon entering the group, the new member is entitled to all information and information resources within the group, as well as rights and obligations under the Codex in the Statute of the group."
 services:
   contentbg:
-    header_text: "in Croatian: Boardgames"
-    h1: "Authentic ludic experience"
-    p1: "We offer a number or boardgames for visitors to play, all teken directly from historical sources or of historical inspiration."
-    p2: "Click on the names to learn more!"
+    header_text: "In croatian: Boardgames"
+    h1: "In croatian: Authentic ludic experience"
+    p1: "In croatian: We offer a number or boardgames for visitors to play, all teken directly from historical sources or of historical inspiration."
+    p2: "In croatian: Click on the names to learn more!"
     list:
       tt:
-        name: "All Tables"
-        desc1: "Ancestor of the backgamon, this game was described in a book commissioned by Alfonso X the Wise and completed in 1283 in Seville. \"The Book of Chess, Dice and Tables\" is today kept in the library of the monastery of San Lorenzo de El Escorial near Madrid."
-        desc2: "This game is called Todas Tablas."
-        desc3: "There is another game that is called Todas Tablas because it extends over the totality of the 4 quadrants of the board. On the 2 quadrants which face each other: put on the first one, on 6-point, 5 pawns of a colour. And, of that same color, put 2 pawns on 1-point of the other quadrant that is in front of the precedent, put along the same quadrant the other pawns as it was said previously. On the 2 other quadrants which are at the end, on 1-point, put 5 pawns of the colour of the 5 others whom are placed on the 6-point. And on the 5-point, put 3 pawns of each of the colours. And played like this: the one who has the hand bring 2 pawns of his choice to the 6-point where are 5 pawns. But if pawns are taken, they should return on the quadrant where 2 pawns are on the 1-point. And bear off pawns placed on the quadrant where 5 pawns are on the 6-pont. There bears off. This game is played with 2 dice."
+        name: "In croatian: Albuquerque"
+        desc1: "In croatian: This game was described in a book commissioned by Alfonso X the Wise and completed in 1283 in Seville. \"The Book of Chess, Dice and Tables\" is today kept in the library of the monastery of San Lorenzo de El Escorial near Madrid."
+        desc2: "In croatian: Each player starts with 12 pieces."
+        desc3: "In croatian: The goal is to 'eat' the other player's pieces by going over them, like in checkers."
       fa:
-        name: "Farkle"
-        desc1: "This is a game played with 6 dice"
-        desc2: "It's really fun"
-        desc3: "TODO: Add rules"
+        name: "In croatian: Farkle"
+        desc1: "In croatian: This is a game played with 6 dice"
+        desc2: "In croatian: It's really fun"
+        desc3: "In croatian: TODO: Add rules"
   contentduel:
-    header_text: "in Croatian: Duels"
-    h1: "Demonstration of Historical Duels"
-    p1: "Watch as our members trained in historical European martial arts demonstrate how duels could have happened!"
+    header_text: "In croatian: Duels"
+    h1: "In croatian: Demonstration of Historical Duels"
+    p1: "In croatian: Watch as our members trained in historical European martial arts demonstrate how duels could have happened!"
   calligraphy:
-    header_text: "in Croatian: Enrol a skilled scribe for your event!"
-    p1: "Get your visitors a beautifully calligraphed souvenir of your event!"
+    header_text: "In croatian: Enrol a skilled scribe for your event!"
+    p1: "In croatian: Get your visitors a beautifully calligraphed souvenir of your event!"
   camp:
-    header_text: "in Croatian: Authentic camp and furniture"
-    p1: "Some things about camps and tents."
+    header_text: "In croatian: Authentic camp and furniture"
+    p1: "In croatian: The group offers a display of a camp owned by a condottiero company. 
+    The heart of the camp is a kitchen, accompanied by historically inspired furniture and tents which all together 
+    enliven the whole camp."
+    p2: "In croatian: During the night visitors can see how the groups drinks, sings and jokes together as candles,
+     lanterns and torches illuminate the camp."
+    p3: "In croatian: The base camp consists of historical tents, shed and furniture.
+    The camp can be expanded with various elements from the "Displays" offer."
+    p4: "In croatian: The camp and its furniture can be used for props in filming and photo sessions, 
+    with few group members being needed for assembly and to take care of the group property."
   members:
-    header_text: "in Croatian: Historical clothing, worn by people!"
-    p1: "Our members wear historical clothing, armor, and weapons."
-    p2: "croatische"
-    p3: "hehehe"
+    header_text: "In croatian:  Weapons, armor and clothes"
+    p1: "In croatian: The group represents a condottiero company from north Italy in the period of 1375-1420, 
+    with displays of different mercenaries and persons who were active in that time period in north Italy."
+    p2: "In croatian: The group's weapons and armor consist of reproductions of original pieces from various museums and collections. 
+    Such equipment would be used by mercenaries and soldiers in the period. 
+    From the poor infantry who only had a "Gambeson" and spear, to knights in full plate armor. 
+    The group's clothes are authentic clothes in style and colors inspired from different manuscripts, frescoes 
+    and extant examples."
+    p3: "In croatian: Group members in their clothes and armor are avilable for any sort of filming where you require medieval people."
   workshops:
-    header_text: "in Croatian: Our group offers several workshops for visitors:"
+    header_text: "In croatian: Our group offers several workshops for visitors:"
   displays: 
-    header_text: "in Croatian: Non-interactive displays"
-    p1: "Those displays are just for looks, in opposition to our interactive workshops."
+    header_text: "In croatian: Non-interactive displays"
+    p1: "In croatian: Those displays are just for looks, in opposition to our interactive workshops."
   educations: 
     header_text: "In croatian: Teaching living history"
-    h1: "Educations"
-    p1: "We can come to your school and teach the students about the late medieval era."
+    h1: "In croatian: Educations"
+    p1: "In croatian: We can come to your school and teach the students about the late medieval era."
