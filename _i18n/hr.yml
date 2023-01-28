@@ -113,8 +113,23 @@ services:
     Workshops which don't require the organizer's desk and sitting arragment are described as such at the end of the 
     description."
   displays: 
-    header_text: "In croatian: Non-interactive displays"
-    p1: "In croatian: Those displays are just for looks, in opposition to our interactive workshops."
+    header_text: "In croatian: Displays"
+    p1: "In croatian: The group offer a number of displays integrated within the group camp, 
+    which are centered to animate and expand the camp as well as educate the visitors in a more interactive approach 
+    compared to the group workshops."
+    list:
+      item1: 
+        name: "In croatian: Calligrahpy"
+        desc: "In croatian: (description)"
+      item2: 
+        name: "In croatian: Historical boardgames"
+        desc: "In croatian: (description)"
+      item3:
+        name: "In croatian: Tablet weaving"
+        desc: "In croatian: (description)"
+      item4:
+        name: "In croatian: Historical kitchen"
+        desc: "In croatian: (description)"
   educations: 
     header_text: "In croatian: Teaching living history"
     h1: "In croatian: Educations"

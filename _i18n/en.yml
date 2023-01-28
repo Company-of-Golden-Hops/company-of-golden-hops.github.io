@@ -113,8 +113,23 @@ services:
     Workshops which don't require the organizer's desk and sitting arragment are described as such at the end of the 
     description."
   displays: 
-    header_text: "Non-interactive displays"
-    p1: "Those displays are just for looks, in opposition to our interactive workshops."
+    header_text: "Displays"
+    p1: "The group offer a number of displays integrated within the group camp, 
+    which are centered to animate and expand the camp as well as educate the visitors in a more interactive approach 
+    compared to the group workshops."
+    list:
+      item1: 
+        name: "Calligrahpy"
+        desc: "(description)"
+      item2: 
+        name: "Historical boardgames"
+        desc: "(description)"
+      item3:
+        name: "Tablet weaving"
+        desc: "(description)"
+      item4:
+        name: "Historical kitchen"
+        desc: "(description)"
   educations: 
     header_text: "Teaching living history"
     h1: "Educations"
