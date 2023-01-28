@@ -6,7 +6,16 @@ date: 23/04/2022
 tags: [education, learning, offers]
 ---
 
-<h1>{% t services.educations.h1 %}</h1>
 <p>{% t services.educations.p1 %}</p>
 
 ![image]({{ page.img | relative_url }})
+
+<details>
+    <summary><strong>{% t services.educations.list.item1.name %}</strong></summary>
+    {% t services.educations.list.item1.desc %}
+</details>
+
+<details>
+    <summary><strong>{% t services.educations.list.item2.name %}</strong></summary>
+    {% t services.educations.list.item2.desc %}
+</details>

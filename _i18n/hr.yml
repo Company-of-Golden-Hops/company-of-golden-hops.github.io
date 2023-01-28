@@ -5,7 +5,7 @@ titles:
   home: "In croatian: Welcome"
   services: "In croatian: Services"
   about: "In croatian: About us"
-  er404: "In croatian: Page not found !"
+  er404: "In croatian: Page not found!"
   gallery: "In croatian: Gallery"
   search: "In croatian: Search"
   membership: "In croatian: Membership"
@@ -131,6 +131,14 @@ services:
         name: "In croatian: Historical kitchen"
         desc: "In croatian: (description)"
   educations: 
-    header_text: "In croatian: Teaching living history"
-    h1: "In croatian: Educations"
-    p1: "In croatian: We can come to your school and teach the students about the late medieval era."
+    header_text: "In croatian: Educations"
+    p1: "In croatian: The group provides a few educational courses about certain aspects of medieval history and life."
+    list:
+      item1: 
+        name: "In croatian: One on one swordfight lessons."
+        desc: "In croatian: If you are interested to learn the basics and maybe some more advanced moves, 
+        you can get private training with one of the members with years of experience in HEMA."
+      item2: 
+        name: "In croatian: Presentations about various aspects of the medieval times"
+        desc: "In croatian: Presentations include covering topics such as: medieval clothes, food, weapons & armor.
+        Content can be modified per demand"
