@@ -25,9 +25,9 @@ hide: false
 
 <h3> {% t about.short2 %} </h3>
 
-Juraj Batelja {% t about.pres %} | Pierre-Louis Palant {% t about.vice %} | Antonija Lepur {% t about.trea %} |
+ Antonija Lepur {% t about.trea %} | Juraj Batelja {% t about.pres %} | Pierre-Louis Palant {% t about.vice %} |
 :-------------------------:|:-------------------------:|:------------------------------------------------------:
-![image]({{ "assets/img/gallery/juraj.jpg" | relative_url }}) | ![image]({{ "assets/img/gallery/pierre.jpg" | relative_url }})|![image]({{ "assets/img/gallery/antonija.jpg" | relative_url }})|
+![image]({{ "assets/img/gallery/bureau.jpg" | relative_url }})
 
 
 <h4>{% t about.membership %}</h4>
