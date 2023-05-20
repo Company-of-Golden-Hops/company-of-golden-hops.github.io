@@ -49,7 +49,7 @@ layout: page
             <h5 class="tag-title">
                 <a href="{{ page.url | relative_url }}">
                     <i class="far fa-file-image" aria-hidden="true"></i>
-                    {{ page.title }}
+                    {% t page.title %}
                 </a>
                 {% include blog/post_info.liquid date=page.date %}
             </h5>
@@ -62,7 +62,7 @@ layout: page
             <h5 class="tag-title">
                 <a href="{{ post.url | relative_url }}">
                     <i class="far fa-file-alt" aria-hidden="true"></i>
-                    {{ post.title }}
+                    {% t post.title %}
                 </a>
 
                 {% include blog/post_info.liquid date=post.date %}
@@ -76,7 +76,7 @@ layout: page
             <h5 class="tag-title">
                 <a href="{{ note.url | relative_url }}">
                     <i class="far fa-file" aria-hidden="true"></i>
-                    {{ note.title }}
+                    {% t note.title %}
                 </a>
 
                 {% include blog/post_info.liquid date=note.date %}
