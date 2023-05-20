@@ -25,22 +25,17 @@ hide: false
 
 <h3> {% t about.short2 %} </h3>
 
-<table>
-    <thead>
-        <tr>
-            <th>Antonija Lepur {% t about.trea %}</th>
-            <th>Juraj Batelja {% t about.pres %}</th>
-            <th>Pierre-Louis Palant {% t about.vice %}</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td colspan=3>
-            <img src="{{ assets/img/gallery/bureau.jpg | relative_url }}">
-            </td>
-        </tr>
-    </tbody>
-</table>
+<div class="services-grid">
+    <div class="services-cell">
+        <img alt="" class="" src="assets/img/gallery/juraj.jpg">    
+    </div>
+    <div class="services-cell">
+        <img alt="" class="" src="assets/img/gallery/antonija.jpg">    
+    </div>
+    <div class="services-cell">
+        <img alt="" class="" src="assets/img/gallery/pierre.jpg">    
+    </div>
+</div>
 
 <h4>{% t about.membership %}</h4>
 
