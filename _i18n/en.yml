@@ -132,3 +132,6 @@ services:
   heraldic_drawing:
     header_text: "Heraldic Drawing"
     p1: "lorem ipsum"
+  boardgames_drawing:
+    header_text: "boardgames Drawing"
+    p1: "lorem ipsum"

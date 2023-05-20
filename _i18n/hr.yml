@@ -132,3 +132,6 @@ services:
   heraldic_drawing:
     header_text: "In croatian: Heraldic Drawing"
     p1: "In croatian: lorem ipsum"
+  boardgames_drawing:
+    header_text: "In croatian: boardgames Drawing"
+    p1: "In croatian: lorem ipsum"
