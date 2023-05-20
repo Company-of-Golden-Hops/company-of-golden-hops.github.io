@@ -138,3 +138,6 @@ services:
   medieval_smithy:
     header_text: "Medieval smithy"
     p1: "lorem ipsum"
+  coinpress:
+    header_text: "Medieval coin stamp"
+    p1: "lorem ipsum"
