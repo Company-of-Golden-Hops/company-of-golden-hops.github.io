@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-    Blogging with title 
+    titles.wip 
 tags: [Test, Image]
 ---
 
