@@ -6,7 +6,7 @@ date: 28/04/2022
 tags: [heraldry, offers, workshops]
 ---
 
-<p>{% t services.heraldic.p1 %}</p>
+<p>{% t services.heraldic_drawing.p1 %}</p>
 
 
 ![image]({{ page.img | relative_url }})
