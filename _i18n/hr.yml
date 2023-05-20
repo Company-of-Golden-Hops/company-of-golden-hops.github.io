@@ -129,3 +129,6 @@ services:
       item2: 
         name: "In croatian: Presentations about various aspects of the medieval times"
         desc: "In croatian: Presentations include covering topics such as: medieval clothes, food, weapons & armor. Content can be modified per demand"
+  heraldic_drawing:
+    header_text: "In croatian: Heraldic Drawing"
+    p1: "In croatian: lorem ipsum"

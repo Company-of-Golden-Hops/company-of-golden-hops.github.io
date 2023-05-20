@@ -129,3 +129,6 @@ services:
       item2: 
         name: "Presentations about various aspects of the medieval times"
         desc: "Presentations include covering topics such as: medieval clothes, food, weapons & armor. Content can be modified per demand"
+  heraldic_drawing:
+    header_text: "Heraldic Drawing"
+    p1: "lorem ipsum"
