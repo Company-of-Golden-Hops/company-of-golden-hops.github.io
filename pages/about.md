@@ -25,16 +25,16 @@ hide: false
 
 <h3> {% t about.short2 %} </h3>
 
-<table style="width: 100%; text-align: center;">
+<table style="width: 80%; text-align: center;">
   <tr>
     <td colspan="3">
       <img src="{{ '/assets/img/bureau.png' | relative_url }}" alt="Bureau" style="max-width: 100%;">
     </td>
   </tr>
   <tr>
-    <td style="width: 33.33%;">Antonija Lepur {% t about.trea %}</td>
-    <td style="width: 33.33%;">Juraj Batelja {% t about.pres %}</td>
-    <td style="width: 33.33%;">Pierre-Louis Palant {% t about.vice %}</td>
+    <td style="width: 33.33%;"><strong>Antonija Lepur</strong> - {% t about.trea %}</td>
+    <td style="width: 33.33%;"><strong>Juraj Batelja</strong> - {% t about.pres %}</td>
+    <td style="width: 33.33%;"><strong>Pierre-Louis Palant</strong> - {% t about.vice %}</td>
   </tr>
 </table>
 
