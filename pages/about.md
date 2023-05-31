@@ -27,7 +27,7 @@ hide: false
 
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td style="width: 100%;">
+    <td colspan="3">
       <img src="{{ '/assets/img/bureau.png' | relative_url }}" alt="Bureau" style="max-width: 100%;">
     </td>
   </tr>
