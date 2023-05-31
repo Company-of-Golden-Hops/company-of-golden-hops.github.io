@@ -1,7 +1,7 @@
 ---
 layout: post
 title: services.coinpress.header_text
-img: "assets/img/services/smithy.jpg"
+img: "assets/img/services/coinstamp.jpg"
 date: 28/04/2022
 tags: [coinpress, coin, offers, workshops]
 ---
