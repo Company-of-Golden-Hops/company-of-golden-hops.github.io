@@ -68,7 +68,7 @@ services:
         desc3: "In croatian: The goal is to 'eat' the other player's pieces by going over them, like in checkers."
       bc:
         name: "In croatian: Tigers and Goats"
-        desc1: "In croatian: Bagh-Chal (Nepali: बाघ चाल bāgh cāl, Newar: धुँ कासा dhun kasa meaning "tiger game") is a strategic, two-player board game that originated in Nepal."
+        desc1: "In croatian: Bagh-Chal (Nepali: बाघ चाल bāgh cāl, Newar: धुँ कासा dhun kasa meaning \"tiger game\") is a strategic, two-player board game that originated in Nepal."
         desc2: "In croatian: The game is asymmetric in that one player controls four tigers and the other player controls up to twenty goats. The tigers 'hunt' the goats while the goats attempt to block the tigers' movements."
         desc3: "In croatian: It is thought to be the ancestor of Alquerque, because it uses the same board layout."
       ml:
