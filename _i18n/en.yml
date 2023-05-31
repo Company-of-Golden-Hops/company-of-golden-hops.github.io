@@ -61,16 +61,31 @@ services:
     p1: "We offer a number or boardgames for visitors to play, all teken directly from historical sources or of historical inspiration."
     p2: "Click on the names to learn more!"
     list:
-      tt:
-        name: "Albuquerque"
+      al:
+        name: "Alquerque"
         desc1: "This game was described in a book commissioned by Alfonso X the Wise and completed in 1283 in Seville. \"The Book of Chess, Dice and Tables\" is today kept in the library of the monastery of San Lorenzo de El Escorial near Madrid."
         desc2: "Each player starts with 12 pieces."
         desc3: "The goal is to 'eat' the other player's pieces by going over them, like in checkers."
-      fa:
-        name: "Farkle"
-        desc1: "This is a game played with 6 dice"
-        desc2: "It's really fun"
-        desc3: "TODO: Add rules"
+      bc:
+        name: "Tigers and Goats"
+        desc1: "Bagh-Chal (Nepali: बाघ चाल bāgh cāl, Newar: धुँ कासा dhun kasa meaning "tiger game") is a strategic, two-player board game that originated in Nepal."
+        desc2: "The game is asymmetric in that one player controls four tigers and the other player controls up to twenty goats. The tigers 'hunt' the goats while the goats attempt to block the tigers' movements."
+        desc3: "It is thought to be the ancestor of Alquerque, because it uses the same board layout."
+      ml:
+        name: "Nine Men's Morris"
+        desc1: "Nine men's morris is a strategy board game for two players dating at least to the Roman Empire. The game is also known as nine-man morris, mill, mills, the mill game, merels, merrills, merelles, marelles, morelles, and ninepenny marl in English. The Latin word merellus means 'gamepiece', which may have been corrupted in English to 'morris'"
+        desc2: "The board consists of a grid with twenty-four intersections, or points. Each player has nine pieces, or men. Players try to form 'mills'—three of their own men lined horizontally or vertically—allowing a player to remove an opponent's man from the game. A player wins by reducing the opponent to two men or by leaving them without a legal move. "
+        desc3: "The game proceeds in three phases: Placing men on vacant points, moving men to adjacent points, and moving men to any vacant point when the player has been reduced to three men."
+      gh:
+        name: "House of Luck"
+        desc1: "Glückshaus (House of Luck) is a gambling dice game for multiple players. It is played with two dice on a numbered board."
+        desc2: "Each player starts with 10 coins. Turn by turn, they throw the dice, and depending on the result they have to put a coin on the board, or take a coin from the board. "
+        desc3: "This game originates from German-speaking lands of the 16th century and is assumed to have been a very popular gambling game in taverns."
+      tt:
+        name: "All Tables"
+        desc1: "This game was described in a book commissioned by Alfonso X the Wise and completed in 1283 in Seville. \"The Book of Chess, Dice and Tables\" is today kept in the library of the monastery of San Lorenzo de El Escorial near Madrid."
+        desc2: "Todas Tablas, also called \"Irish\" in English, is an ancestor of modern backgammon."
+        desc3: "It is played with dice and pieces on board which is almost identical to modern backgammon."
   shows:
     header_text: "Shows and plays"
     p1: "The group can preform a few theatrical and dynamic shows and plays. They can be preformed during the events or separatly on their own."
