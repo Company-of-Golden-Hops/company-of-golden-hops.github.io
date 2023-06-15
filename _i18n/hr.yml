@@ -1,59 +1,59 @@
 global:
   title: "Red zlatnoga hmelja"
 titles: 
-  wip: "In croatian: Work in Progress!"
+  wip: "Stranica u izradi"
   home: "Dobrodošli"
-  services: "In croatian: Services"
+  services: "Ponuda"
   about: "O nama"
-  er404: "Page not found!"
+  er404: "Stranica nije pronađena"
   gallery: "Galerija"
-  search: "In croatian: Search"
+  search: "Search"
   membership: "Članstvo"
-  tags: "In croatian: Tags"
+  tags: "Tags"
 subtitles:
-  wip: "In croatian: This website is currently under construction. Check our other social media pages down below!"
-  home: "In croatian: Living history group"
-  about: "In croatian: AURUM ET CERVISIA"
-  services: "In croatian: Here you can find what the company offers to do on events"
-  gallery: "In croatian: Pictures taken on our adventures :)"
-  search: "In croatian: What are you searching for ?"
-  membership: "In croatian: How to join the Company ?"
+  wip: "Stranica je trenutno u izradi"
+  home: "Udruga za oživljenu povijest"
+  about: "AURUM ET CERVISIA"
+  services: "Istražite ponudu Udruge"
+  gallery: "Slike s naših putovanja!"
+  search: "Što tražite?"
+  membership: "Kako postati član?"
 home:
   header_text: "In croatian: WOW SHINY"
   content:
     h1: "In croatian: THis is a test h1"
     h2: "In croatian: this is a test h2"
 about:
-  short1: "In croatian: Who are we and what do we do?"
-  long1: "In croatian: Company of the golden hops is a Croatian non-profit association of citizens, established for the purpose of studying,promoting and reenecting history from antiquity to the early modern era of Croatian and European cultural and historical heritage."
-  long2: "In croatian: The association operates according to the most modern and up-to-date world principles, achievements and rules of historical reenectment."
-  long3: "In croatian: The main theme we are doing is a historical Italian mercenary company from 1375 to 1420."
-  short2: "In croatian: Bureau:"
-  pres: "In croatian: President"
-  vice: "In croatian: Vice-President"
-  trea: "In croatian: Treasurer"
-  membership: "In croatian: Interested?"
-  membership2: "In croatian: Head over here to learn how you can join us!"
+  short1: "Tko smo mi i što radimo?"
+  long1: "Red zlatnoga hmelja neprofitna je Udruga građana koja se bavi proučavanjem, promicanjem i oživljavanjem povijesti od antike do novog vijeka, te proučavanjem, promicanjem i oživljavanjem hrvatske i europske kulturno povijesne baštine."
+  long2: "Udruga se djeluje prema najsuvremenijim i najaktualnijim svjetskim principima, dosezima i pravilima oživljene povijesti."
+  long3: "Glavna tema koju radimo je prikaz povijesne talijanske plaćeničke kompanije iz godina 1375 do 1420."
+  short2: "Vodstvo"
+  pres: "Predsjednik"
+  vice: "Dopredsjednik"
+  trea: "Tajnik"
+  membership: "Zainteresirani?"
+  membership2: "Kliknite ovdje i istražite kako postati član"
 membership:
-  short1: "In croatian: For all potential interested members, we recommend reading the page"
-  short2: "In croatian: and"
-  short3: "In croatian: If you want to participate in the activities and goals of the group, you can apply through the following steps:"
+  short1: "Za sve potencijalno zainteresirane nove članove, preporučujemo pročitati "
+  short2: "i"
+  short3: "Ako želite sudjelovati u aktivnostima i ciljevima Udruge, možete se prijaviti na sljedeće korake: "
   step1:
-    step1name: "In croatian: Request"
-    step1desc1: "In croatian: The interested person contacts the email of the group and receives the document"
-    step1docname: "In croatian: Request for consideration of membership in the Company of the Golden Hops"
-    step1desc2: "In croatian: They have to fill the document and return it to the group."
-    step1desc3: "In croatian: Interested persons are advised to socialize with members of the group in order to meet as many members as possible."
+    step1name: "Molba"
+    step1desc1: "Zainteresirana osoba doloazi u prostore Udruge ili kontaktira Udrugu preko Udružnog emaila kako bi dobio Molbu."
+    step1docname: "MOLBA  za razmatranje uvrštenja u članstvo  Reda zlatnoga hmelja"
+    step1desc2: "Zainteresirana osoba mora ispuniti dokument, te fizički ili digitalno predati dokument nazad Udruzi"
+    step1desc3: "Zainteresiranoj osobi se preporučuje socijaliziranje s drugim članovima Udruge, kako bi osoba upoznala što više članova Udruge."
   step2:
-    step2name: "In croatian: Voting at the Session of the group and Application Form"
-    step2desc1: "In croatian: If the application is accepted from the interested person, the candidate signs the"
-    step2docname: "In croatian: APPLICATION FORM for membership in the Company of the Golden Hops"
-    step2desc2: "In croatian: which they will receive from the secretary of the group. They need to attach their photo and pay the amount of the annual membership fee (200 HRK). They can communicate with the secretary of the group via the email address of the group."
+    step2name: "Sjednica za razmatranje i glasanje o molbi"
+    step2desc1: "Nakon glasanja, Udruga će obavijestiti zainteresiranu osobu o rezultatima. Ako je molba prihvaćena, osoba će dobiti Udružne dokumente za pročitati te bude trebao potpisati:
+    step2docname: "ZAHTJEVNICA  za uvrštavanje u članstvo  Reda zlatnoga hmelja kao i GDPR privolu o spremanju i korištenju osobnih podataka"
+    step2desc2: "Dokumente osoba bude dobila od Vodstva Udruge i fizičkom obliku. Nakon potpisanih dokumenata član je obavezan platiti svoju prvu članarinu u iznosu od 35€.
   step3:
-    step3name: "In croatian: Entry in the register of members"
-    step3desc1: "In croatian: After the complete application from, the secretary logs the new member in the"
-    step3docname: "In croatian: Register of Members"
-    step3desc2: "In croatian: Upon entering the group, the new member is entitled to all information and information resources within the group, as well as rights and obligations under the Codex in the Statute of the group."
+    step3name: "Unos u popis članova"
+    step3desc1: "Nakon ispunjenjih dokumenata i plaćane članarine, Osoba službeno postaje članom Udruge."
+    step3docname: ""
+    step3desc2: "S ulaskom u Udrugu, novi član dobiva pristup svim informacijama i resursima unutar Udruge, kao i prava i obaveze koje su navedene u Statutu i Codex-u Udruge."
 services:
   contentbg:
     header_text: "In croatian: Boardgames"
@@ -87,15 +87,15 @@ services:
         desc2: "In croatian: Todas Tablas, also called \"Irish\" in English, is an ancestor of modern backgammon."
         desc3: "In croatian: It is played with dice and pieces on board which is almost identical to modern backgammon."
   shows:
-    header_text: "In croatian: Shows and plays"
+    header_text: "Predstave"
     p1: "In croatian: The group can preform a few theatrical and dynamic shows and plays. They can be preformed during the events or separatly on their own."
     list:
       item1: 
-        name: "In croatian: Historical duels"
-        desc: "In croatian: The group can offer duels based on historical fencing treatises combined with threatric elements for a higher enjoyment for the audience. Duels are being preformed by members with years of experience in HEMA using matching or mixed weapons"
+        name: "Predstava - Povijesni dvoboji"
+        desc: "Predstava povijesni dvoboji raznim povijesnim oružjem, može uključivati scenske ili humoristične elemente."
       item2: 
-        name: "In croatian: Legend of the King Doghead"
-        desc: "In croatian: A short theatric play based on a legend from the Adriatic sea. Featuring a cursed king, love and violence!"
+        name: "Legenda o Pasoglavu"
+        desc: "Kratka teatarska predstava bazirana na legendama iz Jadrana, Uključuje ukletog kralja, ljubav i nasilje!"
   calligraphy:
     header_text: "In croatian: Calligraphy"
     p1: "In croatian: Get your visitors a beautifully calligraphed souvenir of your event!"
@@ -116,8 +116,8 @@ services:
     p3: "In croatian: Group members in their clothes and armor are avilable for any sort of filming where you require medieval people."
   workshops:
     header_text: "Radionice"
-    p1: "In croatian: The group offers a collection of workshops and interactive displays with the aim to be educational, fun and enjoyable by all age groups."
-    p2: "In croatian: The groups expects the organizer to provide the space, and if needed, the tables and sitting arrangement. Workshops which don't require the organizer's desk and sitting arragment are described as such at the end of the description."
+    p1: "Udruga nudi brojne radionice i interaktivne prikaze s ciljem educitari i zabaviti sve dobne skupine."
+    p2: "Udruga za određene radionice očekuje od organizatora kako će osigurati stolove i namještaj za sjedenje posjetitelja. Radionice za koje se očekuje takav aranžman je napisano na kraju opisa od svake radionice."
   displays: 
     header_text: "Edukativni prikazi"
     p1: "Grupa nudi niz edukativnih prikaza unutar srednjovjekovnog tabora, koji su usmjereni na animiranje i proširenje kampa, kao i na edukaciju posjetitelja u manje interaktivnom pristupu u usporedbi s radionicama."
@@ -129,21 +129,24 @@ services:
         name: "Prikaz povijesnih društvenih igri"
         desc: "Ne interaktivna edukativna prezentacija srednjovjekovnih društvenih igri. Koja uključuje prezentaciju i edukaciju o srednjovjekovnih društvenih igri."
       item3:
-        name: "In croatian: Tablet weaving"
-        desc: "In croatian: (description)"
+        name: "Prikaz kartičnog tkanja"
+        desc: "Ne interaktivna edukativna prezentacija kartičnog tkanja tekstilnog remenja. Uključuje opremu za kartično tkanje i edukaciju posjetitelja."
       item4:
-        name: "In croatian: Historical kitchen"
-        desc: "In croatian: (description)"
+        name: "Prikaz povijesne kuhinje"
+        desc: "Ne interaktivna edukativna prezentacija pokretne povijesne kuhinje. Uključuje povijesnu opremu za kuhanje i edukaciju posjetitelja."
+      item5:
+        name: "Prikaz povijesnog šivanja"
+        desc: "Ne interaktivna edukativna prezentacija povijesnog šivanja. Uključuje dva seta za šivanje; moderni i povijesni. Edukacija posjetitelja o razlikama i sličnostima  između povijesnog i modernog šivanja."
   educations: 
-    header_text: "In croatian: Educations"
-    p1: "In croatian: The group provides a few educational courses about certain aspects of medieval history and life."
+    header_text: "Edukacije"
+    p1: "Udruga nudi par edukacijeskih materijala za nekoliko aspekta srednjovjekovne povijesti i života."
     list:
       item1: 
-        name: "In croatian: One on one swordfight lessons."
-        desc: "In croatian: If you are interested to learn the basics and maybe some more advanced moves, you can get private training with one of the members with years of experience in HEMA."
+        name: "Jedan na jedan edukacije povijesnog mačevanja"
+        desc: "Ako Vas zanima naučiti osnove i možda koje napredne poteze povijesnog mačevanja, možete od Udruge dobiti privatni jedan na jedan trening s jednom od članova Udruge s višegodišnjim iskustvom u HEMA-i."
       item2: 
-        name: "In croatian: Presentations about various aspects of the medieval times"
-        desc: "In croatian: Presentations include covering topics such as: medieval clothes, food, weapons & armor. Content can be modified per demand"
+        name: "Prezentacija o raznim aspektima srednjeg vijeka"
+        desc: "Prezentacija je primarno orijentirana školama, te može uključivat povijesni sadržaj poput: Odjeća, hrana, oružje i oklop. Sadržaj se može prilagoditi po potrebi.
   heraldic_drawing:
     header_text: "In croatian: Heraldic Drawing"
     p1: "In croatian: lorem ipsum"
