@@ -146,7 +146,7 @@ services:
         desc: "Ako Vas zanima naučiti osnove i možda koje napredne poteze povijesnog mačevanja, možete od Udruge dobiti privatni jedan na jedan trening s jednom od članova Udruge s višegodišnjim iskustvom u HEMA-i."
       item2: 
         name: "Prezentacija o raznim aspektima srednjeg vijeka"
-        desc: "Prezentacija je primarno orijentirana školama, te može uključivat povijesni sadržaj poput: Odjeća, hrana, oružje i oklop. Sadržaj se može prilagoditi po potrebi.
+        desc: "Prezentacija je primarno orijentirana školama, te može uključivat povijesni sadržaj poput: Odjeća, hrana, oružje i oklop. Sadržaj se može prilagoditi po potrebi."
   heraldic_drawing:
     header_text: "In croatian: Heraldic Drawing"
     p1: "In croatian: lorem ipsum"
