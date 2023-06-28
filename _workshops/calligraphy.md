@@ -1,7 +1,7 @@
 ---
 layout: post
 title: services.calligraphy.header_text
-img: "assets/img/services/calligraphy3.jpg"
+img: "assets/img/services/calligraphy_blurred_2.png"
 date: 28/04/2022
 tags: [calligraphy, offers, workshops]
 ---
