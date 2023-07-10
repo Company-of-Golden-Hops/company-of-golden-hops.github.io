@@ -157,9 +157,6 @@ services:
   boardgames_drawing:
     header_text: "In croatian: boardgames Drawing"
     p1: "In croatian: lorem ipsum"
-  medieval_smithy:
-    header_text: "In croatian: Medieval smithy"
-    p1: "In Croatian: lorem ipsum"
   coinpress:
     header_text: "In croatian: Medieval coin stamp"
     p1: "In Croatian: lorem ipsum"
