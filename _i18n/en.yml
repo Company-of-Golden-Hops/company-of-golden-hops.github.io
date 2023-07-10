@@ -10,6 +10,8 @@ titles:
   search: "Search"
   membership: "Membership"
   tags: "Tags"
+  calendar: "Calendar"
+  contact: "Contact"
 subtitles:
   wip: "This website is currently under construction. Check our other social media pages down below!"
   home: "Living history group"
@@ -18,6 +20,8 @@ subtitles:
   gallery: "Pictures taken on our adventures :)"
   search: "What are you searching for ?"
   membership: "How to join the Company ?"
+  calendar: "Where have we been? Where will we be? Find out here!"
+  contact: "Get in touch with us!"
 home:
   header_text: "WOW SHINY"
   content:

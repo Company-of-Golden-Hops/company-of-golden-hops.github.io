@@ -10,6 +10,8 @@ titles:
   search: "Search"
   membership: "Članstvo"
   tags: "Tags"
+  calendar: "Kalendar"
+  contact: "Kontakt"
 subtitles:
   wip: "Stranica je trenutno u izradi"
   home: "Udruga za oživljenu povijest"
@@ -18,6 +20,8 @@ subtitles:
   gallery: "Slike s naših putovanja!"
   search: "Što tražite?"
   membership: "Kako postati član?"
+  calendar: "Gdje smo bili? Gdje ćemo biti?"
+  contact: "Kontaktirajte nas!"
 home:
   header_text: "In croatian: WOW SHINY"
   content:
