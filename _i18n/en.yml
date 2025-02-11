@@ -1,7 +1,7 @@
 global:
   title: "Company of the Golden Hops"
 titles: 
-  wip: "Work in Progress!"
+  wip: "Our association is in a another castle!"
   home: "Welcome"
   services: "Services"
   about: "About us"
@@ -13,7 +13,7 @@ titles:
   calendar: "Calendar"
   contact: "Contact"
 subtitles:
-  wip: "This website is currently under construction. Check our other social media pages down below!"
+  wip: "We moved to a different address:"
   home: "Living history group"
   about: "AURUM ET CERVISIA"
   services: "Here you can find what the company offers to do on events"

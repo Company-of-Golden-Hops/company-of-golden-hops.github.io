@@ -1,7 +1,7 @@
 global:
   title: "Red zlatnoga hmelja"
 titles: 
-  wip: "Stranica u izradi"
+  wip: "Naša udruga je u u nekom drugom dvorcu!"
   home: "Dobrodošli"
   services: "Ponuda"
   about: "O nama"
@@ -13,7 +13,7 @@ titles:
   calendar: "Kalendar"
   contact: "Kontakt"
 subtitles:
-  wip: "Stranica je trenutno u izradi"
+  wip: "Preselili smo se na novu adresu:"
   home: "Udruga za oživljenu povijest"
   about: "AURUM ET CERVISIA"
   services: "Istražite ponudu Udruge"
